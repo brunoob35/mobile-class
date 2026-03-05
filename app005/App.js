@@ -9,7 +9,7 @@ import { View, Text } from "react-native-web";
 
 function App(){
   return (
-    <View style={{ backgroundColor: 'rgb(33, 13, 121)', height: '100%', width: '100%' }}>
+    <View style={{ backgroundColor: 'rgb(33, 13, 121)', height: '100%', width: '300px' }}>
 
       {/* View Laranja */}
       <View style={{ backgroundColor: 'orange', height: '20%', width: '100%' }}>
