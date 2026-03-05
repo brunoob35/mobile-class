@@ -24,7 +24,7 @@ export default function App() {
           textAlign: 'center',
           marginBottom: 8,
         }}>
-          DESAFIO 01 — Views e Text
+          DESAFIO 02 — Views e Texto
         </Text>
 
         <Text style={{
