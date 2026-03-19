@@ -278,4 +278,4 @@ const styles = StyleSheet.create({
 		height: '100%',
 		borderRadius: 8,
 	},
-});
+}); 
