@@ -1,0 +1,17 @@
+[
+  { "id": "1", "pais": "Brasil", "capital": "Brasilia", "bandeira": "https://flagcdn.com/w80/br.png" },
+  { "id": "2", "pais": "Argentina", "capital": "Buenos Aires", "bandeira": "https://flagcdn.com/w80/ar.png" },
+  { "id": "3", "pais": "Chile", "capital": "Santiago", "bandeira": "https://flagcdn.com/w80/cl.png" },
+  { "id": "4", "pais": "Paraguai", "capital": "Assuncao", "bandeira": "https://flagcdn.com/w80/py.png" },
+  { "id": "5", "pais": "Uruguai", "capital": "Montevideo", "bandeira": "https://flagcdn.com/w80/uy.png" },
+  { "id": "6", "pais": "Estados Unidos", "capital": "Washington, D.C.", "bandeira": "https://flagcdn.com/w80/us.png" },
+  { "id": "7", "pais": "Canada", "capital": "Ottawa", "bandeira": "https://flagcdn.com/w80/ca.png" },
+  { "id": "8", "pais": "Mexico", "capital": "Cidade do Mexico", "bandeira": "https://flagcdn.com/w80/mx.png" },
+  { "id": "9", "pais": "Franca", "capital": "Paris", "bandeira": "https://flagcdn.com/w80/fr.png" },
+  { "id": "10", "pais": "Alemanha", "capital": "Berlim", "bandeira": "https://flagcdn.com/w80/de.png" },
+  { "id": "11", "pais": "Italia", "capital": "Roma", "bandeira": "https://flagcdn.com/w80/it.png" },
+  { "id": "12", "pais": "Espanha", "capital": "Madri", "bandeira": "https://flagcdn.com/w80/es.png" },
+  { "id": "13", "pais": "Portugal", "capital": "Lisboa", "bandeira": "https://flagcdn.com/w80/pt.png" },
+  { "id": "14", "pais": "Japao", "capital": "Toquio", "bandeira": "https://flagcdn.com/w80/jp.png" },
+  { "id": "15", "pais": "Australia", "capital": "Canberra", "bandeira": "https://flagcdn.com/w80/au.png" }
+]

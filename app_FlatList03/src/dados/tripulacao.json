@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "nome": "Monkey D. Luffy",
+    "funcao": "Capitao",
+    "idade": "19 anos",
+    "habilidades": "Corpo elastico, Haki e tecnicas Gear",
+    "fruta": "Gomu Gomu no Mi / Hito Hito no Mi, Modelo Nika",
+    "recompensa": "3.000.000.000 berries",
+    "imagem": "https://a.storyblok.com/f/178900/960x540/abbca40916/one-piece-luffy-smile.png/m/filters:quality(95)format(webp)"
+  },
+  {
+    "id": "2",
+    "nome": "Roronoa Zoro",
+    "funcao": "Espadachim",
+    "idade": "21 anos",
+    "habilidades": "Santoryu, Haki e combate de curta distancia",
+    "fruta": "Nao possui",
+    "recompensa": "1.111.000.000 berries",
+    "imagem": "https://seakoff.com/cdn/shop/articles/exploring-zoro-from-one-piece-the-legendary-swordsman-and-his-epic-battles-299359.jpg?v=1718531298"
+  },
+  {
+    "id": "3",
+    "nome": "Nami",
+    "funcao": "Navegadora",
+    "idade": "20 anos",
+    "habilidades": "Navegacao, clima tact e leitura do tempo",
+    "fruta": "Nao possui",
+    "recompensa": "366.000.000 berries",
+    "imagem": "https://static.wikia.nocookie.net/onepiece/images/b/b4/Navegador_Infobox.png/revision/latest?cb=20250214234722&path-prefix=pt"
+  },
+  {
+    "id": "4",
+    "nome": "Usopp",
+    "funcao": "Atirador",
+    "idade": "19 anos",
+    "habilidades": "Tiro de precisao, invencoes e municoes especiais",
+    "fruta": "Nao possui",
+    "recompensa": "500.000.000 berries",
+    "imagem": "https://animeflix.com.br/wp-content/uploads/2026/01/Usopp-One-Piece.jpg"
+  },
+  {
+    "id": "5",
+    "nome": "Sanji",
+    "funcao": "Cozinheiro",
+    "idade": "21 anos",
+    "habilidades": "Perna negra, culinaria e grande mobilidade",
+    "fruta": "Nao possui",
+    "recompensa": "1.032.000.000 berries",
+    "imagem": "https://midianinja.org/wp-content/uploads/2024/08/sanji-jpg.webp"
+  },
+  {
+    "id": "6",
+    "nome": "Going Merry",
+    "funcao": "Primeiro navio",
+    "idade": "Nao informada",
+    "habilidades": "Transporte da tripulacao e grande resistencia emocional",
+    "fruta": "Nao possui",
+    "recompensa": "Nao possui",
+    "imagem": "https://preview.redd.it/why-does-the-anime-and-manga-going-merry-have-a-different-v0-7a66ptymmmyd1.jpg?width=1080&crop=smart&auto=webp&s=1782e193ccc982fe2408651044be29e7ba065071"
+  },
+  {
+    "id": "7",
+    "nome": "Tony Tony Chopper",
+    "funcao": "Medico",
+    "idade": "17 anos",
+    "habilidades": "Medicina, transformacoes e Rumble Ball",
+    "fruta": "Hito Hito no Mi",
+    "recompensa": "1.000 berries",
+    "imagem": "https://www.einerd.com/wp-content/uploads/2024/09/Tony-Tony-Chopper-One-Piece.jpg"
+  },
+  {
+    "id": "8",
+    "nome": "Nefertari Vivi",
+    "funcao": "Aliada e ex-membro considerada da tripulacao",
+    "idade": "18 anos",
+    "habilidades": "Estrategia, diplomacia e Peacock Slashers",
+    "fruta": "Nao possui",
+    "recompensa": "Sem recompensa oficial informada",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebgKpkW4i-QjB4UaB6GovbISQ0hhB-o8_Zg&s"
+  },
+  {
+    "id": "9",
+    "nome": "Nico Robin",
+    "funcao": "Arqueologa",
+    "idade": "30 anos",
+    "habilidades": "Leitura de poneglyphs e criacao de membros extras",
+    "fruta": "Hana Hana no Mi",
+    "recompensa": "930.000.000 berries",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwXytkrjoX4VqtEKwPowQjR1IwSDk_bjfjQ&s"
+  },
+  {
+    "id": "10",
+    "nome": "Franky",
+    "funcao": "Carpinteiro",
+    "idade": "36 anos",
+    "habilidades": "Ciborgue, construcao naval e armas embutidas",
+    "fruta": "Nao possui",
+    "recompensa": "394.000.000 berries",
+    "imagem": "https://seakoff.com/cdn/shop/articles/franky-from-one-piece-the-super-cyborg-of-the-straw-hat-pirates-321056.jpg?v=1774432469"
+  },
+  {
+    "id": "11",
+    "nome": "Thousand Sunny",
+    "funcao": "Navio atual",
+    "idade": "Nao informada",
+    "habilidades": "Coup de Burst, Gaon Cannon e estrutura de Adam",
+    "fruta": "Nao possui",
+    "recompensa": "Nao possui",
+    "imagem": "https://static.wikia.nocookie.net/onepiece/images/b/b1/Thousand_Sunny_Infobox.png/revision/latest?cb=20220904012119"
+  },
+  {
+    "id": "12",
+    "nome": "Brook",
+    "funcao": "Musico",
+    "idade": "90 anos",
+    "habilidades": "Esgrima veloz, musica e projecao da alma",
+    "fruta": "Yomi Yomi no Mi",
+    "recompensa": "383.000.000 berries",
+    "imagem": "https://animeflix.com.br/wp-content/uploads/2025/05/One-Piece-Brook.jpg"
+  },
+  {
+    "id": "13",
+    "nome": "Jinbe",
+    "funcao": "Timoneiro",
+    "idade": "46 anos",
+    "habilidades": "Karate Homem-Peixe, forca fisica e controle do mar",
+    "fruta": "Nao possui",
+    "recompensa": "1.100.000.000 berries",
+    "imagem": "https://a.storyblok.com/f/178900/960x540/22d8d47726/jinbe-one-piece-25th-anniversary.jpg/m/filters:quality(95)format(webp)"
+  }
+]
