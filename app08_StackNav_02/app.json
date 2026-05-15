@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "app08_StackNav_02",
+    "slug": "app08_StackNav_02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
