@@ -1,0 +1,37 @@
+{
+  "arquivos_processados": [
+    "Controle 2022.xlsx",
+    "Controle 2023.xlsx",
+    "Controle 2024.xlsx",
+    "Controle - 2025.xlsx",
+    "Controle - 2026.xlsx",
+    "Informações Professoras Tree House.xlsx"
+  ],
+  "totais": {
+    "clientes_atuais_2026": 146,
+    "clientes_ativos_2026": 91,
+    "contratos_atuais_2026": 91,
+    "aulas_historicas": 16805,
+    "alunos_historicos_unicos": 361,
+    "professoras_historicas_unicas": 54,
+    "cadastros_professoras": 59,
+    "professoras_ativas_2026": 13,
+    "professoras_inativas_2026": 46
+  },
+  "aulas_por_ano": {
+    "2022": 1578,
+    "2023": 3992,
+    "2024": 4881,
+    "2025": 4878,
+    "2026": 1476
+  },
+  "status_aulas_top": {
+    "Aula Ok!": 13480,
+    "Treinamento": 771,
+    "Aula Indenizada": 474,
+    "Colônia Férias": 316,
+    "Office Hours": 99,
+    "Treinamento inicial": 83,
+    "Aula experimental": 4
+  }
+}

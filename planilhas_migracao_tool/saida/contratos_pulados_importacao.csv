@@ -1,0 +1,2 @@
+import_key,cliente_representante_import_key,cliente_responsavel_import_key,aluno_import_key,turma_import_key,professora_import_key,aluno_nome,responsavel_nome,inicio_contrato,fim_contrato,numero_aulas,valor,status_id_sugerido,tipo_contrato_id_sugerido,motivo_exclusao
+contract::0006,cpf::08827422994,cpf::08827422994,name_birth::pedro henrique pimenta alves::2016-06-15,current::pedro henrique pimenta alves,teacher::laura alves da rocha,Pedro Henrique Pimenta Alves,Larissa Loewen,2025-02-15,2026-02-15,80,#REF!,3,1,Valor do contrato ausente ou invalido para carga SQL

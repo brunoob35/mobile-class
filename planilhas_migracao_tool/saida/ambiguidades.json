@@ -1,0 +1,323 @@
+{
+  "alunos": {
+    "entity": "alunos",
+    "total_values": 16951,
+    "exact_variants": [
+      {
+        "normalized_key": "alicia olsen varassin",
+        "variants": [
+          "Alicia Olsen Varassin",
+          "Alicia olsen varassin"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "arthur fisbein katz",
+        "variants": [
+          "Arthur Fisbein Katz",
+          "Arthur fisbein Katz"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "arthur fisbein katz gabriel favaretto ruppel",
+        "variants": [
+          "Arthur Fisbein Katz, Gabriel Favaretto Ruppel",
+          "Arthur fisbein Katz, Gabriel Favaretto Ruppel"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "beatriz kempinski amorim",
+        "variants": [
+          "Beatriz Kempinski Amorim",
+          "Beatriz Kempinski amorim"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "gabriel de masi nogueira",
+        "variants": [
+          "Gabriel de Masi Nogueira",
+          "Gabriel de masi Nogueira"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "gabriel favaretto ruppel",
+        "variants": [
+          "Gabriel Favaretto Ruppel",
+          "Gabriel Favaretto ruppel"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "gloria guimaraes da costa benato",
+        "variants": [
+          "Gloria Guimarães Da Costa Benato",
+          "Gloria Guimarães da Costa Benato"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "gloria luisa goncalves de melo",
+        "variants": [
+          "Gloria Luisa Goncalves de Melo",
+          "Gloria Luisa Gonçalves de Melo"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "guilherme pedroso dresch felipe pedroso dresch",
+        "variants": [
+          "Guilherme Pedroso Dresch Felipe Pedroso Dresch",
+          "Guilherme Pedroso Dresch/Felipe Pedroso Dresch"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "isabela zavattaro rezende lucas zavattaro rezende",
+        "variants": [
+          "Isabela Zavattaro Rezende, Lucas Zavattaro Rezende",
+          "Isabela Zavattaro Rezende; Lucas Zavattaro Rezende"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "joao paulo mendes lima",
+        "variants": [
+          "Joao Paulo Mendes Lima",
+          "João Paulo Mendes Lima"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "leticia belich",
+        "variants": [
+          "Leticia Belich",
+          "Letícia Belich"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "livia malucelli",
+        "variants": [
+          "Livia Malucelli",
+          "Lívia Malucelli"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "lucca maggi verussa",
+        "variants": [
+          "Lucca Maggi Verussa",
+          "Lucca maggi verussa"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "mario grynbaum",
+        "variants": [
+          "Mario Grynbaum",
+          "Mário Grynbaum"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "mario grynbaum rodrigo grynbaum",
+        "variants": [
+          "Mario Grynbaum & Rodrigo Grynbaum",
+          "Mario Grynbaum, Rodrigo Grynbaum"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "maya boiko",
+        "variants": [
+          "Maya Boiko",
+          "Maya boiko"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "natalia tullio",
+        "variants": [
+          "Natalia Tullio",
+          "Natália Tullio"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "nathan boiko",
+        "variants": [
+          "Nathan Boiko",
+          "Nathan boiko"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "nicolas couto dos santos da silva",
+        "variants": [
+          "Nicolas Couto dos Santos da Silva",
+          "Nicolas couto dos santos da silva"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "theo couto dos santos da silva",
+        "variants": [
+          "Theo Couto dos Santos da Silva",
+          "Theo couto dos santos da silva"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "valentina fressato esteves",
+        "variants": [
+          "Valentina Fressato Esteves",
+          "Valentina fressato esteves"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "valentina gasparin wood",
+        "variants": [
+          "Valentina Gasparin Wood",
+          "valentina gasparin wood"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "vicente gauer meister luca gauer marchini bianca gauer marchini",
+        "variants": [
+          "Vicente Gauer Meister, Luca Gauer Marchini & Bianca Gauer Marchini",
+          "Vicente gauer meister, Luca Gauer Marchini & Bianca Gauer Marchini"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "vicente lima bassi aline vera lima bassi",
+        "variants": [
+          "Vicente Lima Bassi, Aline Vera Lima Bassi",
+          "Vicente Lima Bassi; Aline Vera Lima Bassi"
+        ],
+        "count_variants": 2
+      },
+      {
+        "normalized_key": "zoe couto dos santos da silva",
+        "variants": [
+          "Zoe Couto dos Santos da Silva",
+          "Zoe couto dos santos da silva"
+        ],
+        "count_variants": 2
+      }
+    ],
+    "fuzzy_candidates": [
+      {
+        "similarity": 0.9778,
+        "key_a": "arthur fisbein katz e gabriel favaretto ruppel",
+        "variants_a": [
+          "Arthur fisbein Katz e Gabriel Favaretto Ruppel"
+        ],
+        "key_b": "arthur fisbein katz gabriel favaretto ruppel",
+        "variants_b": [
+          "Arthur Fisbein Katz, Gabriel Favaretto Ruppel",
+          "Arthur fisbein Katz, Gabriel Favaretto Ruppel"
+        ]
+      },
+      {
+        "similarity": 0.9688,
+        "key_a": "mario grynbaum e rodrigo grynbaum",
+        "variants_a": [
+          "Mario Grynbaum e Rodrigo Grynbaum"
+        ],
+        "key_b": "mario grynbaum rodrigo grynbaum",
+        "variants_b": [
+          "Mario Grynbaum & Rodrigo Grynbaum",
+          "Mario Grynbaum, Rodrigo Grynbaum"
+        ]
+      },
+      {
+        "similarity": 0.9474,
+        "key_a": "tree house",
+        "variants_a": [
+          "Tree House"
+        ],
+        "key_b": "treehouse",
+        "variants_b": [
+          "TreeHouse"
+        ]
+      },
+      {
+        "similarity": 0.931,
+        "key_a": "laura allage seleme de campos",
+        "variants_a": [
+          "Laura Allage Seleme de Campos"
+        ],
+        "key_b": "paula allage seleme de campos",
+        "variants_b": [
+          "Paula Allage Seleme de Campos"
+        ]
+      },
+      {
+        "similarity": 0.92,
+        "key_a": "laura vaz vieira kanayama",
+        "variants_a": [
+          "Laura Vaz Vieira Kanayama"
+        ],
+        "key_b": "luisa vaz vieira kanayama",
+        "variants_b": [
+          "Luísa Vaz Vieira Kanayama"
+        ]
+      },
+      {
+        "similarity": 0.9153,
+        "key_a": "theo couto dos santos da silva",
+        "variants_a": [
+          "Theo Couto dos Santos da Silva",
+          "Theo couto dos santos da silva"
+        ],
+        "key_b": "zoe couto dos santos da silva",
+        "variants_b": [
+          "Zoe Couto dos Santos da Silva",
+          "Zoe couto dos santos da silva"
+        ]
+      },
+      {
+        "similarity": 0.902,
+        "key_a": "antonella schinda da silva",
+        "variants_a": [
+          "Antonella Schinda da Silva"
+        ],
+        "key_b": "manuella schinda da silva",
+        "variants_b": [
+          "Manuella Schinda da Silva"
+        ]
+      }
+    ]
+  },
+  "responsaveis": {
+    "entity": "responsaveis",
+    "total_values": 237,
+    "exact_variants": [],
+    "fuzzy_candidates": []
+  },
+  "professoras": {
+    "entity": "professoras",
+    "total_values": 16864,
+    "exact_variants": [],
+    "fuzzy_candidates": [
+      {
+        "similarity": 0.95,
+        "key_a": "sofia daniele lisboa",
+        "variants_a": [
+          "Sofia Daniele Lisboa"
+        ],
+        "key_b": "sofia danieli lisboa",
+        "variants_b": [
+          "Sofia Danieli Lisboa"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,489 @@
+import_key,nome,nome_normalizado,nascimento,responsaveis_referencia,enderecos_referencia,origens
+name::adenir,Adenir,adenir,,,,registros_2022
+name::aletha,Aletha,aletha,,,,registros_2022
+name::alexia nicz abage,Alexia Nicz Abage,alexia nicz abage,,,,registros_2024 | registros_2025
+name::alice akemi narazaki prati,Alice akemi narazaki prati,alice akemi narazaki prati,,,,registros_2024 | registros_2025
+name::alice hoffmann orozco,Alice Hoffmann Orozco,alice hoffmann orozco,,,,registros_2024 | registros_2025
+name_birth::alice imazu maranho::2016-07-10,Alice Imazu Maranho,alice imazu maranho,2016-07-10,Luciano Maranho,"Rua Eng Arthur Bettes, 215",clientes_2026
+name::alice imazu maranho,Alice Imazu Maranho,alice imazu maranho,,,,registros_2025 | registros_2026
+name_birth::alice oliveira pinto tomazini::2023-04-16,Alice Oliveira Pinto Tomazini,alice oliveira pinto tomazini,2023-04-16,Gabriel Canto Tomazini,"R. Antônio Rodrigues, 120 - casa 48 - Cidade Industrial de Curitiba, 80740-560,",clientes_2026
+name::alice oliveira pinto tomazini,Alice Oliveira Pinto Tomazini,alice oliveira pinto tomazini,,,,registros_2026
+name_birth::alice silveira guimaraes::2017-11-01,Alice Silveira Guimarães,alice silveira guimaraes,2017-11-01,Pamella Dayane da Silveira Guimarães,Rua Antônio Schiebel 1635 Sobrado 8,clientes_2026
+name::alice silveira guimaraes,Alice Silveira Guimarães,alice silveira guimaraes,,,,registros_2025
+name::alicia ferreira setim,Alicia Ferreira Setim,alicia ferreira setim,,,,registros_2023 | registros_2024 | registros_2025
+name::alicia olsen varassin,Alicia olsen varassin,alicia olsen varassin,,,,registros_2024 | registros_2025
+name_birth::aline vera lima bassi::2015-03-13,Aline Vera Lima Bassi,aline vera lima bassi,2015-03-13,Luiz Eduardo Lima Bassi,"R. Brazílio de Araújo, 341 - casa 89 - Cidade Industrial de Curitiba, 81312-050,",clientes_2026
+name::aline vera lima bassi vicente lima bassi,"Aline Vera Lima Bassi, Vicente Lima Bassi",aline vera lima bassi vicente lima bassi,,,,registros_2026
+name_birth::amanda de loyola greca::2018-05-24,Amanda de Loyola Greca,amanda de loyola greca,2018-05-24,Nathália Locks de Loyola,Rua Deputado Heitor Alencar Furtado 3600 ap 1001,clientes_2026
+name::amanda de loyola greca,Amanda de Loyola Greca,amanda de loyola greca,,,,registros_2025
+name::anahi mendes,Anahi Mendes,anahi mendes,,,,registros_2025
+name::ane,Ane,ane,,,,registros_2022 | registros_2023
+name::anelise prigol basso,Anelise Prigol Basso,anelise prigol basso,,,,registros_2022
+name::angelina sarolli busato,Angelina Sarolli Busato,angelina sarolli busato,,,,registros_2023
+name::antonella bertolin santana da cruz,Antonella Bertolin Santana da Cruz,antonella bertolin santana da cruz,,,,registros_2024
+name_birth::antonella goncalves machado::2018-02-08,Antonella Gonçalves Machado,antonella goncalves machado,2018-02-08,Jessica Goncalves Machado,"Rua Bruno Filgueira, 1936 - ap 802 - Bigorrilho",clientes_2026
+name::antonella goncalves machado,Antonella Gonçalves Machado,antonella goncalves machado,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::antonella perfeito falavina dias::2023-01-11,Antonella Perfeito Falavina Dias,antonella perfeito falavina dias,2023-01-11,Amanda Paula Perfeito Falavina Dias,"R. Dias da Rocha Filho, 239 - 602b - Alto da XV, Curitiba - PR, 80045-130",clientes_2026
+name::antonella perfeito falavina dias,Antonella Perfeito Falavina Dias,antonella perfeito falavina dias,,,,registros_2026
+name::antonella schinda da silva,Antonella Schinda da Silva,antonella schinda da silva,,,,registros_2023 | registros_2024 | registros_2025
+name::antonio gasparin campos,Antonio Gasparin Campos,antonio gasparin campos,,,,registros_2025
+name_birth::antonio spitz rorato baron::2020-05-30,Antonio Spitz Rorato Baron,antonio spitz rorato baron,2020-05-30,Jacqueline Rorato,Travessa Rafael Francisco Greca 34 Ap 1401,clientes_2026
+name::antonio spitz rorato baron luca spitz rorato baron,"Antonio Spitz Rorato Baron, Luca Spitz Rorato Baron",antonio spitz rorato baron luca spitz rorato baron,,,,registros_2025 | registros_2026
+name::arthur de lima,Arthur de Lima,arthur de lima,,,,registros_2023
+name::arthur ferreira setim,Arthur Ferreira Setim,arthur ferreira setim,,,,registros_2024 | registros_2025
+name_birth::arthur fisbein katz::2019-12-20,Arthur Fisbein Katz,arthur fisbein katz,2019-12-20,Renata Fisbein e Richard Katz,"Av. João Gualberto, 610 - Alto da Glória, Curitiba",clientes_2026
+name::arthur fisbein katz,Arthur fisbein Katz,arthur fisbein katz,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::arthur fisbein katz e gabriel favaretto ruppel,Arthur fisbein Katz e Gabriel Favaretto Ruppel,arthur fisbein katz e gabriel favaretto ruppel,,,,registros_2024
+name::arthur fisbein katz gabriel favaretto ruppel,"Arthur fisbein Katz, Gabriel Favaretto Ruppel",arthur fisbein katz gabriel favaretto ruppel,,,,registros_2025
+name_birth::arthur fuganti pereira::2022-05-11,Arthur Fuganti Pereira,arthur fuganti pereira,2022-05-11,Cássia Fuganti,Rua Francisco Rocha 165 apto 93,clientes_2026
+name::arthur fuganti pereira,Arthur Fuganti Pereira,arthur fuganti pereira,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::arthur guerreiro de souza::2022-07-29,Arthur Guerreiro de Souza,arthur guerreiro de souza,2022-07-29,Luana Guerreiro,"Rua Coronel Dulcidio, 1079, ap 601",clientes_2026
+name::arthur guerreiro de souza,Arthur Guerreiro de Souza,arthur guerreiro de souza,,,,registros_2026
+name::arthur henrique kampmann filho,Arthur Henrique Kampmann Filho,arthur henrique kampmann filho,,,,registros_2024 | registros_2025
+name::arturo,Arturo,arturo,,,,registros_2022
+name::arturo passos cesquim,Arturo Passos Cesquim,arturo passos cesquim,,,,registros_2022
+name::athos lins,Athos Lins,athos lins,,,,registros_2023
+name_birth::augusto bisetto correa::2017-06-22,Augusto Bisetto Correa,augusto bisetto correa,2017-06-22,Bianca Bacci Bisetto,Rua Jeremias Maciel Perretto 1288 casa 48,clientes_2026
+name::augusto bisetto correa,Augusto Bisetto Correa,augusto bisetto correa,,,,registros_2025 | registros_2026
+name::augusto medeiros,Augusto Medeiros,augusto medeiros,,,,registros_2025
+name_birth::augusto medeiros ribas::2017-06-26,Augusto Medeiros Ribas,augusto medeiros ribas,2017-06-26,Pollyana Ribeiro Medeiros Ribas,"Rua Brasilio José Betezek, 105, casa 56",clientes_2026
+name::augusto medeiros ribas,Augusto Medeiros Ribas,augusto medeiros ribas,,,,registros_2025 | registros_2026
+name::augusto medeiros ribas isadora medeiros ribas,"Augusto Medeiros Ribas, Isadora Medeiros Ribas",augusto medeiros ribas isadora medeiros ribas,,,,registros_2025
+name::augusto medeiros ribas vinicius trento magacho,"Augusto Medeiros Ribas, Vinicius Trento Magacho",augusto medeiros ribas vinicius trento magacho,,,,registros_2025
+name::aurora,Aurora,aurora,,,,registros_2024
+name::aurora samways gerhardt,Aurora Samways Gerhardt,aurora samways gerhardt,,,,registros_2024
+name_birth::ayla crema camargo::2021-04-27,Ayla Crema Camargo,ayla crema camargo,2021-04-27,Anelissa Crema,"Rua Leão Sallum, 526 AP302B Grove",clientes_2026
+name::ayla crema camargo,Ayla Crema Camargo,ayla crema camargo,,,,registros_2025
+name_birth::ayla ferraz novak::2017-03-10,Ayla Ferraz Novak,ayla ferraz novak,2017-03-10,Renata Ferraz Novak,"Seminário, Rua Antônio Rodrigues 209",clientes_2026
+name::ayla ferraz novak,Ayla Ferraz Novak,ayla ferraz novak,,,,registros_2023 | registros_2024 | registros_2025
+name_birth::barbara kulka de souza::2015-06-20,Bárbara Kulka de Souza,barbara kulka de souza,2015-06-20,Regiane Cristina Kulka de Souza,"Rua Capitão Leônidas Marques, 893 casa 03",clientes_2026
+name::barbara kulka de souza,Bárbara Kulka de Souza,barbara kulka de souza,,,,registros_2025 | registros_2026
+name::beatriz kempinski amorim,Beatriz Kempinski amorim,beatriz kempinski amorim,,,,registros_2023 | registros_2024
+name_birth::beatriz krebs dias::2012-12-21,Beatriz Krebs Dias,beatriz krebs dias,2012-12-21,Amanda Krebs Dias,"Rua Curupis, 1861 casa 03, Portão",clientes_2026
+name::beatriz krebs dias,Beatriz Krebs Dias,beatriz krebs dias,,,,registros_2024 | registros_2025 | registros_2026
+name::beatriz ruggi fatiga,Beatriz ruggi fatiga,beatriz ruggi fatiga,,,,registros_2023
+name_birth::benjamin fisbein katz::2023-03-30,Benjamin Fisbein Katz,benjamin fisbein katz,2023-03-30,Renata Fisbein e Richard Katz,"Av. João Gualberto, 610 - Alto da Glória, Curitiba",clientes_2026
+name::benjamin fisbein katz,Benjamin Fisbein Katz,benjamin fisbein katz,,,,registros_2026
+name::benjamin monteiro casagrande,Benjamin Monteiro Casagrande,benjamin monteiro casagrande,,,,registros_2023 | registros_2024
+name::benjamin monteiro casagrande e maite monteiro casagrande,Benjamin Monteiro Casagrande e Maitê Monteiro Casagrande,benjamin monteiro casagrande e maite monteiro casagrande,,,,registros_2024
+name_birth::bento trento magacho::2015-01-14,Bento Trento Magacho,bento trento magacho,2015-01-14,Rafael Magacho,"Rua Justo Manfron, 225, casa 6, Santa Felicidade",clientes_2026
+name::bento trento magacho,Bento Trento Magacho,bento trento magacho,,,,registros_2025
+name::bento werner masalosso,Bento Werner Masalosso,bento werner masalosso,,,,registros_2024
+name::bernardo amin bacila,Bernardo Amin Bacila,bernardo amin bacila,,,,registros_2022 | registros_2023
+name::bernardo canfield schmidt,Bernardo Canfield Schmidt,bernardo canfield schmidt,,,,registros_2022
+name::bernardo corte xavier flor,Bernardo Corte Xavier Flor,bernardo corte xavier flor,,,,registros_2023
+name::bernardo goncalves de matheus,Bernardo Gonçalves De Matheus,bernardo goncalves de matheus,,,,registros_2024
+name_birth::bernardo sichelschimidt de oliveira::2018-06-11,Bernardo Sichelschimidt de Oliveira,bernardo sichelschimidt de oliveira,2018-06-11,Fabiane Sichelschimidt,Rua Delegado Naby Paraná 462,clientes_2026
+name::bernardo sichelschimidt de oliveira,Bernardo Sichelschimidt de Oliveira,bernardo sichelschimidt de oliveira,,,,registros_2024 | registros_2025 | registros_2026
+name::bianca carvalho franceschi,Bianca Carvalho Franceschi,bianca carvalho franceschi,,,,registros_2023
+name::bianca e luca gauer marchini,Bianca e Luca Gauer Marchini,bianca e luca gauer marchini,,,,registros_2024
+name_birth::bianca gauer marchini::2019-07-17,Bianca Gauer Marchini,bianca gauer marchini,2019-07-17,Andrea Elisa Gauer Marchini,"Rua Julia Wanderley, 168",clientes_2026
+name_birth::bianca gauer marchini::2019-11-25,Bianca Gauer Marchini,bianca gauer marchini,2019-11-25,Andrea Elisa Gauer Marchini,"R. Uberlândia, 359, casa 24 - Abranches",clientes_2026
+name::bianca gauer marchini,Bianca Gauer Marchini,bianca gauer marchini,,,,registros_2023 | registros_2026
+name::bianca gauer marchini luca gauer marchini,"Bianca Gauer Marchini, Luca Gauer Marchini",bianca gauer marchini luca gauer marchini,,,,registros_2026
+name::catarina benvenutti pozzobon,Catarina Benvenutti Pozzobon,catarina benvenutti pozzobon,,,,registros_2024
+name_birth::catarina bisetto correa::2015-05-11,Catarina Bisetto Corrêa,catarina bisetto correa,2015-05-11,Bianca Bacci Bisetto,Rua Jeremias Maciel Perretto 1288 casa 48,clientes_2026
+name::catarina bisetto correa,Catarina Bisetto Corrêa,catarina bisetto correa,,,,registros_2025 | registros_2026
+name_birth::catarina favaro alves::2015-07-28,Catarina Favaro Alves,catarina favaro alves,2015-07-28,Fernanda Alves,José Cadilhe 804 ap 41B,clientes_2026
+name::catarina favaro alves,Catarina Favaro Alves,catarina favaro alves,,,,registros_2025
+name::catarina lenzi roloff,Catarina Lenzi Roloff,catarina lenzi roloff,,,,registros_2022
+name_birth::catarina rezzadori valdez::2015-12-07,Catarina Rezzadori Valdez,catarina rezzadori valdez,2015-12-07,Deborah Fernandes Rezzadori Valdez,"Rua Dona Alice Tibiriçá, 74B ap 1801",clientes_2026
+name::catarina rezzadori valdez,Catarina Rezzadori Valdez,catarina rezzadori valdez,,,,registros_2026
+name_birth::cecilia zaninelli de araujo::2016-11-22,Cecilia Zaninelli de Araujo,cecilia zaninelli de araujo,2016-11-22,Gustavo Weigert de Araujo,"R. Ana Tosin, 222 - Portão, Curitiba - PR, 80330-110",clientes_2026
+name::cecilia zaninelli de araujo daniel zaninelli de araujo,"Cecilia Zaninelli de Araujo, Daniel Zaninelli de Araujo",cecilia zaninelli de araujo daniel zaninelli de araujo,,,,registros_2026
+name::cica,Ciça,cica,,,,registros_2022
+name_birth::clara demeterco pessoa::2018-09-14,Clara Demeterco Pessoa,clara demeterco pessoa,2018-09-14,Isabella Demeterco,"Av. N. Sra. da Luz, 230 - apartamento 1102 - Bacacheri, 82510-020,",clientes_2026
+name::clara demeterco pessoa,Clara Demeterco Pessoa,clara demeterco pessoa,,,,registros_2026
+name::clara e beatriz cassou nacli,Clara e Beatriz Cassou Nacli,clara e beatriz cassou nacli,,,,registros_2024 | registros_2025
+name::clara zipf fabri,Clara Zipf Fabri,clara zipf fabri,,,,registros_2022 | registros_2023 | registros_2024
+name_birth::clarice arend schmidt::2022-01-03,Clarice Arend Schmidt,clarice arend schmidt,2022-01-03,Beatriz Aguiar Arend Schmidt,"Rua Ari José Valle, 1200 - casa 57 - São João, Curitiba - PR, 82030-025",clientes_2026
+name::clarice arend schmidt,Clarice Arend Schmidt,clarice arend schmidt,,,,registros_2026
+name::colegio israelita,Colégio Israelita,colegio israelita,,,,registros_2023
+name::daianne passarin mauer,Daianne Passarin Mauer,daianne passarin mauer,,,,registros_2022
+name::daniel,Daniel,daniel,,,,registros_2022
+name::daniel correia de ramos,Daniel Correia de Ramos,daniel correia de ramos,,,,registros_2025
+name::daniel longo de camargo,Daniel Longo De Camargo,daniel longo de camargo,,,,registros_2023 | registros_2024
+name::daniel ruggi fatiga,Daniel ruggi fatiga,daniel ruggi fatiga,,,,registros_2023
+name_birth::daniel zaninelli de araujo::2018-03-27,Daniel Zaninelli de Araujo,daniel zaninelli de araujo,2018-03-27,Gustavo Weigert de Araujo,"R. Ana Tosin, 222 - Portão, Curitiba - PR, 80330-110",clientes_2026
+name::daniela luck ximenes de pauli,Daniela luck ximenes de Pauli,daniela luck ximenes de pauli,,,,registros_2022
+name::davi de mello norte,Davi de Mello Norte,davi de mello norte,,,,registros_2023 | registros_2024
+name::davi tavares de oliveira,Davi Tavares de Oliveira,davi tavares de oliveira,,,,registros_2024 | registros_2025
+name::dhara husseini,Dhara Husseini,dhara husseini,,,,registros_2023
+name_birth::diana dos santos pellanda::2014-12-13,Diana dos Santos Pellanda,diana dos santos pellanda,2014-12-13,Patricia Ribas dos Santos,"Rua Amintas de Barros, 330, ap 1301",clientes_2026
+name::diana dos santos pellanda,Diana dos Santos Pellanda,diana dos santos pellanda,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::diana zuffo falkemback::2018-05-10,Diana Zuffo Falkemback,diana zuffo falkemback,2018-05-10,Magda Ester Minuzzo Zuffo,"Rua Epaminondas Franco, 138 Tarumã",clientes_2026
+name::diana zuffo falkemback,Diana Zuffo Falkemback,diana zuffo falkemback,,,,registros_2025 | registros_2026
+name::don carollo matos,Don Carollo Matos,don carollo matos,,,,registros_2022
+name::dora dos santos pellanda,Dora dos Santos Pellanda,dora dos santos pellanda,,,,registros_2024 | registros_2025
+name::edison de muzio carvalho neto,Edison De Muzio Carvalho Neto,edison de muzio carvalho neto,,,,registros_2022
+name::emanuelle antunes,Emanuelle Antunes,emanuelle antunes,,,,registros_2024 | registros_2025
+name::enrico corte xavier flor,Enrico Corte Xavier Flor,enrico corte xavier flor,,,,registros_2023
+name_birth::enzo filippetto brenner kraemer::2015-06-10,Enzo Filippetto Brenner Kraemer,enzo filippetto brenner kraemer,2015-06-10,Bruna Maria Filippetto,"Rua Fernando de Noronha, 3450",clientes_2026
+name::enzo filippetto brenner kraemer,Enzo Filippetto Brenner Kraemer,enzo filippetto brenner kraemer,,,,registros_2026
+name::escola casinha feliz,Escola Casinha Feliz,escola casinha feliz,,,,registros_2024
+name::escola israelita,Escola Israelita,escola israelita,,,,registros_2023 | registros_2024 | registros_2025
+name_birth::escola kambalhota::2012-12-12,Escola Kambalhota,escola kambalhota,2012-12-12,Escola Escola Kambalhota,"Av. Silva Jardim, 4063 - Seminário, Curitiba - PR",clientes_2026
+name::escola kambalhota,Escola Kambalhota,escola kambalhota,,,,registros_2024 | registros_2025 | registros_2026
+name::escola kambalhota treehouse,"Escola Kambalhota, TreeHouse",escola kambalhota treehouse,,,,registros_2025
+name_birth::escola kids::2025-12-12,Escola Kids,escola kids,2025-12-12,Escola Escola Kids,"R. Saldanha Marinho, 1884 - Bigorrilho, Curitiba - PR",clientes_2026
+name::escola kids,Escola Kids,escola kids,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::escola vila sofia,Escola Vila Sofia,escola vila sofia,,,,registros_2024
+name_birth::estela do nascimento cardoso::2019-04-25,Estela do Nascimento Cardoso,estela do nascimento cardoso,2019-04-25,Camila do Nascimento Cardoso,"Rua Carolina Castelli, 538, bloco 1 apartamento 305",clientes_2026
+name::estela do nascimento cardoso,Estela do Nascimento Cardoso,estela do nascimento cardoso,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::esther fogaca dos santos::2015-01-09,Esther Fogaça dos Santos,esther fogaca dos santos,2015-01-09,Priscilla Raquel Fogaça dos Santos,Rua Brazilio de Araújo 341 Condomínio Plaza Madrid casa 61,clientes_2026
+name::esther fogaca dos santos,Esther Fogaça dos Santos,esther fogaca dos santos,,,,registros_2024 | registros_2025 | registros_2026
+name::familia miguel,Família Miguel,familia miguel,,,,registros_2024
+name::felipe da silveira colares,Felipe da Silveira Colares,felipe da silveira colares,,,,registros_2023
+name::felipe guimaraes carneiro,Felipe Guimaraes Carneiro,felipe guimaraes carneiro,,,,registros_2022
+name::felipe mazzarotto,Felipe Mazzarotto,felipe mazzarotto,,,,registros_2025
+name::felipe mazzarotto maria isabel mazzarotto,"Felipe Mazzarotto, Maria Isabel Mazzarotto",felipe mazzarotto maria isabel mazzarotto,,,,registros_2025
+name::felipe pedroso dresch,Felipe Pedroso Dresch,felipe pedroso dresch,,,,registros_2025
+name::felipe pedroso dresch guilherme pedroso dresch,"Felipe Pedroso Dresch, Guilherme Pedroso Dresch",felipe pedroso dresch guilherme pedroso dresch,,,,registros_2025
+name::fernanda e mariana zortea tauchmann,Fernanda e Mariana Zortea Tauchmann,fernanda e mariana zortea tauchmann,,,,registros_2023
+name::fernanda zortea tauchmann,Fernanda Zortea Tauchmann,fernanda zortea tauchmann,,,,registros_2023
+name::flavia bomfim milek,Flávia Bomfim Milek,flavia bomfim milek,,,,registros_2023
+name::francisco,Francisco,francisco,,,,registros_2023
+name::francisco paulino tareszkiewicz,Francisco Paulino Tareszkiewicz,francisco paulino tareszkiewicz,,,,registros_2023
+name::gabe,Gabe,gabe,,,,registros_2022
+name::gabriel amashta chaiben,Gabriel Amashta Chaiben,gabriel amashta chaiben,,,,registros_2022
+name_birth::gabriel de masi nogueira::2022-02-07,Gabriel de Masi Nogueira,gabriel de masi nogueira,2022-02-07,Marcela de Masi Nogueira,Rua Atílio Borio 174 ap 81 - Cristo rei,clientes_2026
+name::gabriel de masi nogueira,Gabriel de masi Nogueira,gabriel de masi nogueira,,,,registros_2025 | registros_2026
+name_birth::gabriel favaretto ruppel::2020-05-10,Gabriel Favaretto Ruppel,gabriel favaretto ruppel,2020-05-10,Jaqueline Lebbos Favaretto Ruppel,"Avenida João Gualberto 610, ap 601C",clientes_2026
+name::gabriel favaretto ruppel,Gabriel Favaretto ruppel,gabriel favaretto ruppel,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::gabriel guerreiro de souza::2020-03-13,Gabriel Guerreiro de Souza,gabriel guerreiro de souza,2020-03-13,Luana Guerreiro,"Rua Coronel Dulcidio, 1079, ap 601",clientes_2026
+name::gabriel guerreiro de souza,Gabriel Guerreiro de Souza,gabriel guerreiro de souza,,,,registros_2026
+name::gabriela charlotte vieira,Gabriela Charlotte Vieira,gabriela charlotte vieira,,,,registros_2025
+name::gabriela de pauli kinaki,Gabriela De Pauli Kinaki,gabriela de pauli kinaki,,,,registros_2022 | registros_2023 | registros_2024 | registros_2025
+name_birth::gabriela greggio correa::2016-12-08,Gabriela Greggio Corrêa,gabriela greggio correa,2016-12-08,Bruna Greggio,"R. Carlos Benato, 640 - casa 17",clientes_2026
+name::gabriela greggio correa,Gabriela Greggio Corrêa,gabriela greggio correa,,,,registros_2026
+name::gabriela vieira,Gabriela Vieira,gabriela vieira,,,,registros_2025
+name::gabriella antunes zuffo,Gabriella Antunes Zuffo,gabriella antunes zuffo,,,,registros_2023
+name::giovana bollmann martins,Giovana Bollmann Martins,giovana bollmann martins,,,,registros_2023
+name_birth::giovanna cristina leinig de almeida benassi romani::2023-09-01,Giovanna Cristina Leinig de Almeida Benassi Romani,giovanna cristina leinig de almeida benassi romani,2023-09-01,Juliana Cristina Leinig de Almeida Romani,"Rua Brigadeiro Franco, 1766, ap. 192, Centro, Curitiba-PR",clientes_2026
+name::giovanna cristina leinig de almeida benassi romani,Giovanna Cristina Leinig de Almeida Benassi Romani,giovanna cristina leinig de almeida benassi romani,,,,registros_2025 | registros_2026
+name::giovanna nobrega,Giovanna nobrega,giovanna nobrega,,,,registros_2024
+name_birth::giuseppe piegel ferreira::2021-08-22,Giuseppe Piegel Ferreira,giuseppe piegel ferreira,2021-08-22,Pérola Piegel,"R. São Pedro, 42 - Cabral, Curitiba - PR, 80035-020",clientes_2026
+name::giuseppe piegel ferreira,Giuseppe Piegel Ferreira,giuseppe piegel ferreira,,,,registros_2026
+name_birth::gloria guimaraes da costa benato::2019-05-04,Gloria Guimarães Da Costa Benato,gloria guimaraes da costa benato,2019-05-04,Maria Beatriz Benato,"Rua Margarida Dallarmi, 315 - Santa Felicidade",clientes_2026
+name::gloria guimaraes da costa benato,Gloria Guimarães da Costa Benato,gloria guimaraes da costa benato,,,,registros_2024 | registros_2025 | registros_2026
+name::gloria luisa goncalves de melo,Gloria Luisa Gonçalves de Melo,gloria luisa goncalves de melo,,,,registros_2023
+name_birth::gregorio abeling de camargo::2025-02-13,Gregório Abeling de Camargo,gregorio abeling de camargo,2025-02-13,Rodrigo Camargo de Camargo,"Av. Sete de Setembro, 4633 - Batel, 80250-205",clientes_2026
+name::gregorio abeling de camargo,Gregório Abeling de Camargo,gregorio abeling de camargo,,,,registros_2026
+name::guilherme de camargo labegalini,Guilherme de Camargo Labegalini,guilherme de camargo labegalini,,,,registros_2024
+name_birth::guilherme pedroso dresch::2017-05-06,Guilherme Pedroso Dresch,guilherme pedroso dresch,2017-05-06,Jussara Pedroso Dresch,"Rua Valdivia, 239, sobrado 3, Hugo lange",clientes_2026
+name::guilherme pedroso dresch,Guilherme Pedroso Dresch,guilherme pedroso dresch,,,,registros_2025 | registros_2026
+name::guilherme pedroso dresch felipe pedroso dresch,Guilherme Pedroso Dresch/Felipe Pedroso Dresch,guilherme pedroso dresch felipe pedroso dresch,,,,registros_2025
+name_birth::gustavo becker cordeiro::2015-01-08,Gustavo Becker Cordeiro,gustavo becker cordeiro,2015-01-08,Tchesari Becker Cordeiro,"Rua Hyron Homero Damasceno Cassou, 119 - Casa 37",clientes_2026
+name::gustavo becker cordeiro,Gustavo Becker Cordeiro,gustavo becker cordeiro,,,,registros_2026
+name::gustavo becker cordeiro valentina becker cordeiro,"Gustavo Becker Cordeiro, Valentina Becker Cordeiro",gustavo becker cordeiro valentina becker cordeiro,,,,registros_2026
+name_birth::gustavo milani weyll::2018-10-25,Gustavo Milani Weyll,gustavo milani weyll,2018-10-25,Camila Trevisan Milani Weyll,"Rua das Estrelas, 35 apto 1001 Vila da Serra, Nova Lima - MG",clientes_2026
+name::gustavo milani weyll,Gustavo Milani Weyll,gustavo milani weyll,,,,registros_2025 | registros_2026
+name::gustavo possetti,Gustavo Possetti,gustavo possetti,,,,registros_2025
+name::gustavo possetti de padua,Gustavo Possetti de Padua,gustavo possetti de padua,,,,registros_2025
+name_birth::heitor bento ferrari burkoot::2023-01-26,Heitor Bento Ferrari Burkoot,heitor bento ferrari burkoot,2023-01-26,Melanny Burkoot,"Professor Luiz Benicio da Silva Bastos, 110",clientes_2026
+name::heitor bento ferrari burkoot,Heitor Bento Ferrari Burkoot,heitor bento ferrari burkoot,,,,registros_2025 | registros_2026
+name_birth::heitor tonatto fernandes::2022-08-19,Heitor Tonatto Fernandes,heitor tonatto fernandes,2022-08-19,Flavia Tonatto Dorneles Barboza,"R. Rio Tietê, 414 - apartamento 404 - Bairro Alto",clientes_2026
+name::heitor tonatto fernandes,Heitor Tonatto Fernandes,heitor tonatto fernandes,,,,registros_2026
+name::helena,Helena,helena,,,,registros_2022
+name_birth::helena da silva rosina::2019-07-03,Helena da Silva Rosina,helena da silva rosina,2019-07-03,Mariana Rosina,Carmelina Cavassin 1280 casa 35,clientes_2026
+name::helena da silva rosina,Helena da Silva Rosina,helena da silva rosina,,,,registros_2025 | registros_2026
+name_birth::helena longo de camargo::2016-08-12,Helena Longo De Camargo,helena longo de camargo,2016-08-12,Rodrigo Mendes Camargo,Eduardo Sprada 2388 casa 02,clientes_2026
+name::helena longo de camargo,Helena Longo De Camargo,helena longo de camargo,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::helena monteiro mengue::2020-02-05,Helena Monteiro Mengue,helena monteiro mengue,2020-02-05,Rosângela Alves Monteiro,"Dep. Heitor Alencar Furtado, 4690 apto 2302",clientes_2026
+name::helena monteiro mengue,Helena Monteiro Mengue,helena monteiro mengue,,,,registros_2026
+name::helena navachi paura,Helena Navachi Paúra,helena navachi paura,,,,registros_2023
+name::heloisa da silveira colares,Heloisa da Silveira Colares,heloisa da silveira colares,,,,registros_2023
+name::heloisa honda yamamoto,Heloisa Honda Yamamoto,heloisa honda yamamoto,,,,registros_2024
+name::henri mendes,Henri Mendes,henri mendes,,,,registros_2023 | registros_2025
+name_birth::henrique favareto cerqueira leite::2020-09-30,Henrique Favareto Cerqueira Leite,henrique favareto cerqueira leite,2020-09-30,Andrea Favareto,"Rua Eliezer Disaro Fangueiro 195, uberaba",clientes_2026
+name::henrique favareto cerqueira leite,Henrique Favareto Cerqueira Leite,henrique favareto cerqueira leite,,,,registros_2024 | registros_2025 | registros_2026
+name::henrique favareto cerqueira leite e rafaela favareto cerqueira leite,Henrique Favareto Cerqueira Leite e Rafaela Favareto Cerqueira Leite,henrique favareto cerqueira leite e rafaela favareto cerqueira leite,,,,registros_2024
+name::henrique tironi fernandes romagna,Henrique Tironi Fernandes Romagna,henrique tironi fernandes romagna,,,,registros_2024 | registros_2025
+name::henrique vaz martini,Henrique Vaz Martini,henrique vaz martini,,,,registros_2024
+name_birth::isabela anile mansur::2024-05-12,Isabela Anile Mansur,isabela anile mansur,2024-05-12,Renata Anile Mansur,"R. Prof. Pedro Viriato Parigot de Souza, 3635 - Cidade Industrial de Curitiba, Curitiba - PR, 81200-452",clientes_2026
+name::isabela anile mansur,Isabela Anile Mansur,isabela anile mansur,,,,registros_2026
+name::isabela e luiza faigenbaum lucchesi,Isabela e Luiza Faigenbaum Lucchesi,isabela e luiza faigenbaum lucchesi,,,,registros_2023 | registros_2024
+name_birth::isabela kasaoka cherbiski::2015-02-05,Isabela Kasaoka Cherbiski,isabela kasaoka cherbiski,2015-02-05,Raphael Taura Cherbiski,"Kapellestraat 2 Bus 4 Deinze, Bélgica",clientes_2026
+name::isabela kasaoka cherbiski,Isabela Kasaoka Cherbiski,isabela kasaoka cherbiski,,,,registros_2026
+name_birth::isabela mainetti gabardo::2020-02-20,Isabela Mainetti Gabardo,isabela mainetti gabardo,2020-02-20,Camila Mainetti,"Condomínio Westside III - Rua Luiz Tramontin, 1820 - Campo Comprido, Curitiba - PR, 81230-161 Casa 2",clientes_2026
+name::isabela mainetti gabardo,Isabela Mainetti Gabardo,isabela mainetti gabardo,,,,registros_2026
+name::isabela mischiatti fontoura e flavia mischiatti fontoura,Isabela Mischiatti Fontoura E Flávia Mischiatti Fontoura,isabela mischiatti fontoura e flavia mischiatti fontoura,,,,registros_2024 | registros_2025
+name_birth::isabela zavattaro rezende::2019-07-04,Isabela Zavattaro Rezende,isabela zavattaro rezende,2019-07-04,Mayra dos Santos Zavattaro,"Rua Benjamin Zilli, 413, Ap. 61A",clientes_2026
+name::isabela zavattaro rezende lucas zavattaro rezende,Isabela Zavattaro Rezende; Lucas Zavattaro Rezende,isabela zavattaro rezende lucas zavattaro rezende,,,,registros_2026
+name_birth::isabelle martins sornas::2012-03-28,Isabelle Martins Sornas,isabelle martins sornas,2012-03-28,Lydia Aparecida Martins,"R. Brasílio José Betezek, 105 - São Braz, Curitiba - PR, 82015-384",clientes_2026
+name::isabelle martins sornas,Isabelle Martins Sornas,isabelle martins sornas,,,,registros_2026
+name_birth::isadora goncalves machado::2021-12-13,Isadora Gonçalves Machado,isadora goncalves machado,2021-12-13,Leonardo Silva Machado,"Rua Bruno Filgueira, 1936 - ap 802 - Bigorrilho",clientes_2026
+name::isadora goncalves machado,Isadora Gonçalves Machado,isadora goncalves machado,,,,registros_2026
+name_birth::isadora medeiros ribas::2020-05-09,Isadora Medeiros Ribas,isadora medeiros ribas,2020-05-09,Pollyana Ribeiro Medeiros Ribas,"Rua Brasilio José Betezek, 105, casa 56",clientes_2026
+name::isadora medeiros ribas,Isadora Medeiros Ribas,isadora medeiros ribas,,,,registros_2025 | registros_2026
+name::isis passere zamblauskas,Ísis Passere Zamblauskas,isis passere zamblauskas,,,,registros_2023
+name::israelita,Israelita,israelita,,,,registros_2024
+name::isys otto,Isys Otto,isys otto,,,,registros_2025
+name::jamile arielle franca bittencourt,Jamile Arielle França Bittencourt,jamile arielle franca bittencourt,,,,registros_2025
+name::jamille,Jamille,jamille,,,,registros_2025
+name_birth::joana perillo de melo::2021-09-15,Joana Perillo de Melo,joana perillo de melo,2021-09-15,Ana Luiza Jaime Perillo de Melo,"Av. Visc. de Guarapuava, 5345 - 09 - Batel, Curitiba - PR, 80240-010",clientes_2026
+name::joana perillo de melo,Joana Perillo de Melo,joana perillo de melo,,,,registros_2026
+name::joao,João,joao,,,,registros_2022
+name::joao e joana perillo,João e Joana Perillo,joao e joana perillo,,,,registros_2023
+name_birth::joao gabriel perillo de melo::2019-03-05,João Gabriel Perillo de Melo,joao gabriel perillo de melo,2019-03-05,Ana Luiza Jaime Perillo de Melo,"Av. Visc. de Guarapuava, 5345 - 09 - Batel, Curitiba - PR, 80240-010",clientes_2026
+name::joao gabriel perillo de melo,João Gabriel Perillo de Melo,joao gabriel perillo de melo,,,,registros_2026
+name::joao marcelo frizzo,João Marcelo Frizzo,joao marcelo frizzo,,,,registros_2022
+name::joao miguel rodrigues dos santos,João Miguel Rodrigues dos Santos,joao miguel rodrigues dos santos,,,,registros_2023 | registros_2024
+name::joao paulo mendes lima,João Paulo Mendes Lima,joao paulo mendes lima,,,,registros_2023 | registros_2024
+name::joao renato zaika nazzari,João Renato Zaika Nazzari,joao renato zaika nazzari,,,,registros_2024
+name_birth::joao vitor kulka de souza::2012-02-03,João Vitor Kulka de Souza,joao vitor kulka de souza,2012-02-03,Regiane Cristina Kulka de Souza,"Rua Capitão Leônidas Marques, 893 casa 03",clientes_2026
+name::joao vitor kulka de souza,João Vitor Kulka de Souza,joao vitor kulka de souza,,,,registros_2025 | registros_2026
+name::joaquim luck ximenes de pauli,Joaquim Luck ximenes de Pauli,joaquim luck ximenes de pauli,,,,registros_2022
+name_birth::joaquim torrens campos::2023-02-22,Joaquim Torrens Campos,joaquim torrens campos,2023-02-22,Victor Cangussu Teixeira Campos,"R. Reinaldino Schaffenberg de Quadros, 1590 - apartamento 501 - Alto da XV, 80050-435",clientes_2026
+name::joaquim torrens campos,Joaquim Torrens Campos,joaquim torrens campos,,,,registros_2026
+name::julia de camargo labegalini,Julia de Camargo Labegalini,julia de camargo labegalini,,,,registros_2024
+name::julia e guillherme de camargo labegalini,Julia e Guillherme De Camargo Labegalini,julia e guillherme de camargo labegalini,,,,registros_2024
+name::julia ribeiro chiquini,Julia Ribeiro Chiquini,julia ribeiro chiquini,,,,registros_2024
+name::julia weinert de andrade,Julia Weinert de Andrade,julia weinert de andrade,,,,registros_2023 | registros_2024
+name::kambalhota,Kambalhota,kambalhota,,,,registros_2023
+name::kambalhota educacao infantil,Kambalhota Educação Infantil,kambalhota educacao infantil,,,,registros_2023
+name::karine,Karine,karine,,,,registros_2022
+name::laura allage seleme de campos,Laura Allage Seleme de Campos,laura allage seleme de campos,,,,registros_2024
+name_birth::laura dubas matocheck::2022-11-18,Laura Dubas Matocheck,laura dubas matocheck,2022-11-18,Valeska da Fonseca Dubas Matocheck,"Rua José Alcides de Lima, 884, casa 02",clientes_2026
+name::laura dubas matocheck,Laura Dubas Matocheck,laura dubas matocheck,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::laura e luisa,Laura e Luisa,laura e luisa,,,,registros_2025
+name::laura kimi massignan minamihara,Laura Kimi Massignan Minamihara,laura kimi massignan minamihara,,,,registros_2025
+name_birth::laura marcondes ribas zini::2017-03-24,Laura Marcondes Ribas Zini,laura marcondes ribas zini,2017-03-24,Fernanda Marcondes Ribas,"São João, rua Pedro Muraro, 50, casa 52",clientes_2026
+name::laura marcondes ribas zini,Laura Marcondes Ribas Zini,laura marcondes ribas zini,,,,registros_2024 | registros_2025 | registros_2026
+name::laura tironi fernandes romagna,Laura Tironi Fernandes Romagna,laura tironi fernandes romagna,,,,registros_2024 | registros_2025
+name::laura vaz vieira kanayama,Laura Vaz Vieira Kanayama,laura vaz vieira kanayama,,,,registros_2024 | registros_2025
+name::laura vaz vieira kanayama luisa vaz vieira kanayama,"Laura Vaz Vieira Kanayama, Luísa Vaz Vieira Kanayama",laura vaz vieira kanayama luisa vaz vieira kanayama,,,,registros_2025
+name_birth::layla glass da fonseca silva::2021-11-27,Layla Glass da Fonseca Silva,layla glass da fonseca silva,2021-11-27,Cinthia Fernanda da Fonseca Silva,"Rua Nilo Peçanha, 2222 Sobrado 6 bairro Pilarzinho",clientes_2026
+name::layla glass da fonseca silva,Layla Glass da Fonseca Silva,layla glass da fonseca silva,,,,registros_2025 | registros_2026
+name::leandro scheinkman de souza,Leandro Scheinkman De Souza,leandro scheinkman de souza,,,,registros_2022 | registros_2023
+name::leonardo cunha ferreira,Leonardo Cunha Ferreira,leonardo cunha ferreira,,,,registros_2025
+name::leonardo gomes roveda,Leonardo Gomes Roveda,leonardo gomes roveda,,,,registros_2022
+name::leticia belich,Letícia Belich,leticia belich,,,,registros_2022 | registros_2023
+name::lindsey helena ferreira cordeiro,Lindsey Helena Ferreira Cordeiro.,lindsey helena ferreira cordeiro,,,,registros_2023
+name_birth::livia malucelli::2020-07-07,Livia Malucelli,livia malucelli,2020-07-07,Isabella Zviejkovski Malucelli,"Avenida Iguaçu, 2689 ap 21",clientes_2026
+name_birth::livia malucelli::2016-10-01,Livia Malucelli,livia malucelli,2016-10-01,Isabella Zviejkovski Malucelli,"Avenida Iguaçu, 2689 ap 21",clientes_2026
+name::livia malucelli,Lívia Malucelli,livia malucelli,,,,registros_2025 | registros_2026
+name::liz antonella rodrigues de carvalho,Liz Antonella Rodrigues de Carvalho,liz antonella rodrigues de carvalho,,,,registros_2024 | registros_2025
+name::lorena prigol basso,Lorena Prigol Basso,lorena prigol basso,,,,registros_2022
+name_birth::lorenzo fidelis lopes::2015-04-11,Lorenzo Fidelis Lopes,lorenzo fidelis lopes,2015-04-11,Francieli Dias Fidelis,Rua Guilherme Pugsley 1837,clientes_2026
+name::lorenzo fidelis lopes,Lorenzo Fidelis Lopes,lorenzo fidelis lopes,,,,registros_2024 | registros_2025
+name::lorenzo fidelis lopes lucca fidelis lopes,"Lorenzo Fidelis Lopes, Lucca Fidelis Lopes",lorenzo fidelis lopes lucca fidelis lopes,,,,registros_2025 | registros_2026
+name::lorenzo vecchi pinheiro,Lorenzo Vecchi Pinheiro,lorenzo vecchi pinheiro,,,,registros_2023
+name_birth::louise martins sornas::2014-10-14,Louise Martins Sornas,louise martins sornas,2014-10-14,Lydia Aparecida Martins,"R. Brasílio José Betezek, 105 - São Braz, Curitiba - PR, 82015-384",clientes_2026
+name::louise martins sornas,Louise Martins Sornas,louise martins sornas,,,,registros_2026
+name_birth::luana fernandes paiva::2010-05-18,Luana Fernandes Paiva,luana fernandes paiva,2010-05-18,Vanessa Fernandes de Paiva,Rua Hayron Homero Damasceno Cassou 119 Boqueirão,clientes_2026
+name::luana fernandes paiva,Luana Fernandes Paiva,luana fernandes paiva,,,,registros_2025 | registros_2026
+name::luanna paiva,Luanna Paiva,luanna paiva,,,,registros_2025
+name_birth::luca gauer marchini::2019-07-17,Luca Gauer Marchini,luca gauer marchini,2019-07-17,Andrea Elisa Gauer Marchini,"Rua Julia Wanderley, 168",clientes_2026
+name_birth::luca gauer marchini::2019-11-25,Luca Gauer Marchini,luca gauer marchini,2019-11-25,Andrea Elisa Gauer Marchini,"R. Uberlândia, 359, casa 24 - Abranches",clientes_2026
+name::luca gauer marchini,Luca Gauer Marchini,luca gauer marchini,,,,registros_2023
+name::luca gauer marchini bianca gauer marchini,Luca Gauer Marchini & Bianca Gauer Marchini,luca gauer marchini bianca gauer marchini,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::luca gauer marchini bianca gauer marchini vicente gauer meister,"Luca Gauer Marchini & Bianca Gauer Marchini, Vicente gauer meister",luca gauer marchini bianca gauer marchini vicente gauer meister,,,,registros_2025
+name_birth::luca spitz rorato baron::2022-02-10,Luca Spitz Rorato Baron,luca spitz rorato baron,2022-02-10,Jacqueline Rorato,Travessa Rafael Francisco Greca 34 Ap 1401,clientes_2026
+name::luca trauczynski muffone,Luca Trauczynski Muffone,luca trauczynski muffone,,,,registros_2022 | registros_2023
+name_birth::lucas crippa mazzarotto::2024-02-22,Lucas Crippa Mazzarotto,lucas crippa mazzarotto,2024-02-22,Joanna Vitória Crippa Mazzarotto,"Av. Visc. de Guarapuava, 3945 - apartamento 1202 - Batel, 80250-220",clientes_2026
+name::lucas da silva garcia,Lucas Da Silva Garcia,lucas da silva garcia,,,,registros_2022
+name_birth::lucas gallego tavares::2019-05-08,Lucas Gallego Tavares,lucas gallego tavares,2019-05-08,Sâmia Silva Gallego Campos Tavares,"Rua sete de abril, 445, ap. 202, Alto da XV",clientes_2026
+name::lucas gallego tavares,Lucas Gallego Tavares,lucas gallego tavares,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::lucas henrique simoes::2020-01-06,Lucas Henrique Simões,lucas henrique simoes,2020-01-06,Mariele Simões,"Rua Domingas Nicco, 179 - apartamento 22 - Mossunguê",clientes_2026
+name::lucas henrique simoes,Lucas Henrique Simões,lucas henrique simoes,,,,registros_2026
+name::lucas mota felipe,Lucas Mota Felipe,lucas mota felipe,,,,registros_2022
+name_birth::lucas zavattaro rezende::2019-07-04,Lucas Zavattaro Rezende,lucas zavattaro rezende,2019-07-04,Mayra dos Santos Zavattaro,"Rua Benjamin Zilli, 413, Ap. 61A",clientes_2026
+name_birth::lucca fidelis lopes::2017-01-07,Lucca Fidelis Lopes,lucca fidelis lopes,2017-01-07,Francieli Dias Fidelis,Rua Guilherme Pugsley 1837,clientes_2026
+name::lucca fidelis lopes,Lucca Fidelis Lopes,lucca fidelis lopes,,,,registros_2024 | registros_2025
+name_birth::lucca maggi verussa::2018-09-11,Lucca Maggi Verussa,lucca maggi verussa,2018-09-11,Caio Verussa,"Rua Eduardo Sprada, 2520 casa 18",clientes_2026
+name::lucca maggi verussa,Lucca Maggi Verussa,lucca maggi verussa,,,,registros_2025 | registros_2026
+name::lucca nissel taques mottin,Lucca Nissel Taques Mottin,lucca nissel taques mottin,,,,registros_2024 | registros_2025
+name::lucca pia de andrade suttile,Lucca Piá de Andrade Suttile,lucca pia de andrade suttile,,,,registros_2024
+name::lucca schmidt fontana,Lucca Schmidt Fontana,lucca schmidt fontana,,,,registros_2022
+name::luciane,Luciane,luciane,,,,registros_2022 | registros_2023
+name::luciane ane,Luciane & Ane,luciane ane,,,,registros_2023
+name::luigi,Luigi,luigi,,,,registros_2022
+name::luigi cima,Luigi cima,luigi cima,,,,registros_2023
+name::luigi scheinkman,Luigi Scheinkman,luigi scheinkman,,,,registros_2023
+name::luisa de pauli kinaki,Luisa De Pauli Kinaki,luisa de pauli kinaki,,,,registros_2022 | registros_2023 | registros_2024 | registros_2025
+name_birth::luisa malucelli::2016-10-01,Luisa Malucelli,luisa malucelli,2016-10-01,Isabella Zviejkovski Malucelli,"Avenida Iguaçu, 2689 ap 21",clientes_2026
+name::luisa malucelli,Luisa Malucelli,luisa malucelli,,,,registros_2024 | registros_2025 | registros_2026
+name::luisa vaz vieira kanayama,Luísa Vaz Vieira Kanayama,luisa vaz vieira kanayama,,,,registros_2024 | registros_2025
+name::luisa vaz vieira kanayama e laura vaz vieira kanayama,Luísa Vaz Vieira Kanayama e Laura Vaz Vieira Kanayama,luisa vaz vieira kanayama e laura vaz vieira kanayama,,,,registros_2024
+name_birth::luiz ce neto::2015-10-26,Luiz Cé Neto,luiz ce neto,2015-10-26,Talita Tamara da Silva Ramos Cé,"Av. Iguaçu, 2663 - Apto 131b - Água verde",clientes_2026
+name_birth::luiz ce neto::2015-12-26,Luiz Cé Neto,luiz ce neto,2015-12-26,Talita Tamara da Silva Ramos Cé,"Av. Iguaçu, 2663 - Apto 131b - Água verde",clientes_2026
+name::luiz ce neto,Luiz Cé Neto,luiz ce neto,,,,registros_2025 | registros_2026
+name::luiz cesar buffara keinert,Luiz César Buffara Keinert,luiz cesar buffara keinert,,,,registros_2024
+name_birth::luiza centurion skraba::2017-08-30,Luiza Centurion Skraba,luiza centurion skraba,2017-08-30,Felipe Skraba,"Rua Deputado Heitor Alencar Furtado, 3215, apto 1802",clientes_2026
+name::luiza centurion skraba,Luiza Centurion Skraba,luiza centurion skraba,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::luiza garbin lima::2020-09-02,Luiza Garbin Lima,luiza garbin lima,2020-09-02,Marina Garbin Lima,Rua Silveira Peixoto 380 apto 401,clientes_2026
+name::luiza garbin lima,Luiza Garbin Lima,luiza garbin lima,,,,registros_2024 | registros_2025 | registros_2026
+name::luiza iglesias de carvalho,Luiza Iglesias de Carvalho,luiza iglesias de carvalho,,,,registros_2024
+name_birth::luiza santos andor::2016-04-21,Luiza Santos Andor,luiza santos andor,2016-04-21,Ingrid Araujo Santos Andor,Rua Urbano Lopes 238 ap 302 Cristo Rei,clientes_2026
+name::luiza santos andor,Luiza Santos Andor,luiza santos andor,,,,registros_2024 | registros_2025 | registros_2026
+name::maite monteiro casagrande,Maitê Monteiro Casagrande,maite monteiro casagrande,,,,registros_2023 | registros_2024
+name::malu,Malu,malu,,,,registros_2022
+name_birth::manoel cassio antunes::2015-05-13,Manoel Cassio Antunes,manoel cassio antunes,2015-05-13,Emilene Semirames de Oliveira Silva,"R. Hyron Homero Damasceno Cassou, 119 - casa 02",clientes_2026
+name::manoel cassio antunes,Manoel Cassio Antunes,manoel cassio antunes,,,,registros_2024 | registros_2025 | registros_2026
+name::manuela contador mei carrasco,Manuela Contador Mei Carrasco,manuela contador mei carrasco,,,,registros_2025
+name::manuela fontoura de souza,Manuela Fontoura De Souza,manuela fontoura de souza,,,,registros_2022 | registros_2023 | registros_2024
+name::manuela torres barbosa e isabela torres tassinari,Manuela Torres Barbosa e Isabela Torres Tassinari,manuela torres barbosa e isabela torres tassinari,,,,registros_2025
+name_birth::manuella matzenbacher roda::2020-01-11,Manuella Matzenbacher Roda,manuella matzenbacher roda,2020-01-11,Melissa Matzenbacher,"Rua Jeremias Maciel Perretto 1288, Casa 20 Cond.Burgel II",clientes_2026
+name::manuella matzenbacher roda,Manuella Matzenbacher Roda,manuella matzenbacher roda,,,,registros_2026
+name::manuella schinda da silva,Manuella Schinda da Silva,manuella schinda da silva,,,,registros_2023 | registros_2024 | registros_2025
+name::marcela guimaraes carneiro,Marcela Guimaraes Carneiro,marcela guimaraes carneiro,,,,registros_2022
+name_birth::marcella bonatto urbano::2021-09-03,Marcella Bonatto Urbano,marcella bonatto urbano,2021-09-03,Hugo Evo Magro Corrêa Urbano,"Rua Ari José Valle, 1200, casa 34",clientes_2026
+name::marcella bonatto urbano,Marcella Bonatto Urbano,marcella bonatto urbano,,,,registros_2026
+name::maria cecilia komuchena malinoski,Maria Cecília Komuchena Malinoski,maria cecilia komuchena malinoski,,,,registros_2022 | registros_2023
+name::maria clara pimentel pereira,Maria Clara Pimentel Pereira,maria clara pimentel pereira,,,,registros_2024
+name_birth::maria clara pimentel pereira e miguel pimentel pereira::2018-12-21,Maria Clara Pimentel Pereira e Miguel Pimentel Pereira,maria clara pimentel pereira e miguel pimentel pereira,2018-12-21,Thalita Oliveira Pimentel Pereira,"Rua Reinaldo Stocco, n 546, casa 79",clientes_2026
+name::maria clara pimentel pereira e miguel pimentel pereira,Maria Clara Pimentel Pereira e Miguel Pimentel Pereira,maria clara pimentel pereira e miguel pimentel pereira,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::maria eduarda coan fidelis alvea::2018-01-06,Maria Eduarda Coan Fidelis Alvea,maria eduarda coan fidelis alvea,2018-01-06,Maria Fernanda Coan,Travessa Lange 261 ap 501,clientes_2026
+name::maria eduarda coan fidelis alvea,Maria Eduarda Coan Fidelis Alvea,maria eduarda coan fidelis alvea,,,,registros_2025 | registros_2026
+name_birth::maria eduarda girardi roesler::2018-04-06,Maria Eduarda Girardi Roesler,maria eduarda girardi roesler,2018-04-06,Marcio Aleksey Roesler,"Av. Silva Jardim, 1618 - apartamento 502 - Água Verde, 80250-030",clientes_2026
+name::maria eduarda girardi roesler,Maria Eduarda Girardi Roesler,maria eduarda girardi roesler,,,,registros_2026
+name_birth::maria eduarda mourao remer silva::2012-10-27,Maria Eduarda Mourão Remer Silva,maria eduarda mourao remer silva,2012-10-27,Fabíola Colombo Mourão,"Rua Coronel Ottoni Maciel, 215- apto 802- A Bairro Vila Izabel",clientes_2026
+name::maria eduarda mourao remer silva,Maria Eduarda Mourão Remer Silva,maria eduarda mourao remer silva,,,,registros_2024 | registros_2025 | registros_2026
+name::maria eduarda mourao remer silva treehouse,"Maria Eduarda Mourão Remer Silva, TreeHouse",maria eduarda mourao remer silva treehouse,,,,registros_2025
+name::maria fernanda de matos cabral,Maria Fernanda de Matos Cabral,maria fernanda de matos cabral,,,,registros_2023
+name::maria isabel mazzarotto,Maria Isabel Mazzarotto,maria isabel mazzarotto,,,,registros_2025
+name::maria luisa komuchena malinoski,Maria Luísa Komuchena Malinoski,maria luisa komuchena malinoski,,,,registros_2022 | registros_2023
+name::maria luiza,Maria Luiza,maria luiza,,,,registros_2022
+name::maria luiza bertocello,Maria Luiza Bertocello,maria luiza bertocello,,,,registros_2024
+name_birth::maria luiza ferreira primo pereira lima::2023-06-26,Maria Luiza Ferreira Primo Pereira Lima,maria luiza ferreira primo pereira lima,2023-06-26,Amanda Ferreira Primo,"R. Francisco Torres, 742 - apartamento 901 - Centro, 80060-130",clientes_2026
+name::maria luiza ferreira primo pereira lima,Maria Luiza Ferreira Primo Pereira Lima,maria luiza ferreira primo pereira lima,,,,registros_2026
+name_birth::maria olivia cassaniga marim::2018-03-16,Maria Olivia Cassaniga Marim,maria olivia cassaniga marim,2018-03-16,Leandra Cassaniga Marim,"Padre Jose Kentenich 900, casa 50",clientes_2026
+name::maria olivia cassaniga marim,Maria Olivia Cassaniga Marim,maria olivia cassaniga marim,,,,registros_2025 | registros_2026
+name::maria teresa komuchena malinoski,Maria Teresa Komuchena Malinoski,maria teresa komuchena malinoski,,,,registros_2022 | registros_2023
+name::maria valentina de castro iensen,Maria Valentina de Castro Iensen,maria valentina de castro iensen,,,,registros_2024
+name::mariana e fernanda zortea tauchmann,Mariana e Fernanda Zortea Tauchmann,mariana e fernanda zortea tauchmann,,,,registros_2024
+name::mariana zortea tauchmann,Mariana Zortea Tauchmann,mariana zortea tauchmann,,,,registros_2023
+name::marie vianna,Mariê Vianna,marie vianna,,,,registros_2022
+name_birth::marina dos santos malat::2016-11-20,Marina dos Santos Malat,marina dos santos malat,2016-11-20,Cristiane Engel dos Santos Malat,"Rua Professor Pedro Viriato Parigot de Souza, 3635, ap 2102, B",clientes_2026
+name::marina dos santos malat,Marina dos Santos Malat,marina dos santos malat,,,,registros_2025 | registros_2026
+name::marina franca bittencourt e olivia franca bittencourt,Marina França Bittencourt e Olivia França Bittencourt,marina franca bittencourt e olivia franca bittencourt,,,,registros_2024 | registros_2025
+name_birth::mario grynbaum::2017-08-13,Mario Grynbaum,mario grynbaum,2017-08-13,Carina Grynbaum,Rua Professor Pedro Viriato Parigot De Souza 3305 Ap 181,clientes_2026
+name::mario grynbaum,Mario Grynbaum,mario grynbaum,,,,registros_2023 | registros_2024 | registros_2025
+name::mario grynbaum e rodrigo grynbaum,Mario Grynbaum e Rodrigo Grynbaum,mario grynbaum e rodrigo grynbaum,,,,registros_2024
+name::mario grynbaum rodrigo grynbaum,Mario Grynbaum & Rodrigo Grynbaum,mario grynbaum rodrigo grynbaum,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::martin moura feitosa,Martin Moura Feitosa,martin moura feitosa,,,,registros_2024
+name::martina pozzobon lara dos santos,Martina Pozzobon Lara dos Santos,martina pozzobon lara dos santos,,,,registros_2022 | registros_2023 | registros_2024
+name::mateus,Mateus,mateus,,,,registros_2022
+name::mateus eduardo mazuroski,Mateus Eduardo Mazuroski,mateus eduardo mazuroski,,,,registros_2023
+name::matheus cesar chalegre sens,Matheus César Chalegre Sens,matheus cesar chalegre sens,,,,registros_2023
+name::matheus pia de andrade suttile,Matheus Piá de Andrade Suttile,matheus pia de andrade suttile,,,,registros_2024
+name::mauricio amorim correia,Maurício Amorim Correia,mauricio amorim correia,,,,registros_2024
+name::max roda lopes,Max Roda Lopes,max roda lopes,,,,registros_2022 | registros_2023
+name_birth::maya boiko::2021-07-08,Maya Boiko,maya boiko,2021-07-08,Sarah Boiko,"Rua Jose Brusamolin, 658, casa 2",clientes_2026
+name::maya boiko,Maya Boiko,maya boiko,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::maya boiko nathan boiko,"Maya Boiko, Nathan Boiko",maya boiko nathan boiko,,,,registros_2025
+name_birth::maya rezzadori valdez::2021-03-30,Maya Rezzadori Valdez,maya rezzadori valdez,2021-03-30,Deborah Fernandes Rezzadori Valdez,"Rua Dona Alice Tibiriçá, 74B ap 1801",clientes_2026
+name::maya rezzadori valdez,Maya Rezzadori Valdez,maya rezzadori valdez,,,,registros_2026
+name::mayte,Maytê,mayte,,,,registros_2022
+name_birth::melina silva varjao::2016-08-29,Melina Silva Varjão,melina silva varjao,2016-08-29,Louise Nascimento e Silva,"Avenida João Gualberto, 610, Ap 902C, Alto da Glória",clientes_2026
+name::melina silva varjao,Melina Silva Varjão,melina silva varjao,,,,registros_2025 | registros_2026
+name::melissa vicari bortolotto,Melissa Vicari Bortolotto,melissa vicari bortolotto,,,,registros_2024
+name_birth::micaela garbin lima::2020-09-02,Micaela Garbin Lima,micaela garbin lima,2020-09-02,Marina Garbin Lima,Rua Silveira Peixoto 380 apto 401,clientes_2026
+name::micaela garbin lima,Micaela Garbin Lima,micaela garbin lima,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::miguel felix lima::1977-03-05,Miguel Felix Lima,miguel felix lima,1977-03-05,Jheinifer Felix,Rua Suécia 756,clientes_2026
+name::miguel felix lima,Miguel Felix Lima,miguel felix lima,,,,registros_2024 | registros_2025 | registros_2026
+name::miguel pimentel pereira,Miguel Pimentel Pereira,miguel pimentel pereira,,,,registros_2024
+name::miguel zipf fabri,Miguel Zipf Fabri,miguel zipf fabri,,,,registros_2022 | registros_2023 | registros_2024
+name::murilo guiroto miotto,Murilo Guiroto Miotto,murilo guiroto miotto,,,,registros_2025
+name::natalia honda yamamoto,Natalia Honda Yamamoto,natalia honda yamamoto,,,,registros_2024
+name_birth::natalia tullio::2018-02-15,Natália Tullio,natalia tullio,2018-02-15,Soraia Tullio,"R Pedro Viriato Parigot de Souza, 2664, apto 23-C, Ecoville",clientes_2026
+name::natalia tullio,Natalia Tullio,natalia tullio,,,,registros_2025
+name_birth::nathan boiko::2019-08-28,Nathan Boiko,nathan boiko,2019-08-28,Sarah Boiko,"Rua Jose Brusamolin, 658, casa 2",clientes_2026
+name::nathan boiko,Nathan Boiko,nathan boiko,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::nicolas becker cordeiro,Nicolas Becker Cordeiro,nicolas becker cordeiro,,,,registros_2023 | registros_2024 | registros_2025
+name::nicolas becker cordeiro valentina becker cordeiro,"Nicolas Becker Cordeiro, Valentina Becker Cordeiro",nicolas becker cordeiro valentina becker cordeiro,,,,registros_2025
+name_birth::nicolas couto dos santos da silva::2012-10-10,Nicolas Couto dos Santos da Silva,nicolas couto dos santos da silva,2012-10-10,Elines Couto dos Santos da Silva,"Rua John Foster Dulles, 90 - Seminário, Curitiba - PR",clientes_2026
+name::nicolas couto dos santos da silva,Nicolas couto dos santos da silva,nicolas couto dos santos da silva,,,,registros_2025 | registros_2026
+name::noah zanon sanna,Noah Zanon Sanna,noah zanon sanna,,,,registros_2023 | registros_2024
+name::outro,Outro,outro,,,,registros_2022
+name::outro aluno sem contrato,Outro / Aluno sem Contrato,outro aluno sem contrato,,,,registros_2023
+name::paola,Paola,paola,,,,registros_2022
+name_birth::paola carneiro akiyama::2016-03-01,Paola Carneiro Akiyama,paola carneiro akiyama,2016-03-01,Thais Gualda Carneiro Akiyama,"R. Bento Viana, 1078 - Água Verde, Curitiba - PR, 80240-110",clientes_2026
+name::paola carneiro akiyama,Paola Carneiro Akiyama,paola carneiro akiyama,,,,registros_2022 | registros_2023 | registros_2026
+name::paola carneiro akiyama pedro carneiro akiyama,"Paola Carneiro Akiyama, Pedro Carneiro Akiyama",paola carneiro akiyama pedro carneiro akiyama,,,,registros_2026
+name::paola mota felipe,Paola Mota Felipe,paola mota felipe,,,,registros_2024 | registros_2025
+name::paula allage seleme de campos,Paula Allage Seleme de Campos,paula allage seleme de campos,,,,registros_2024
+name_birth::pedro carneiro akiyama::2018-08-14,Pedro Carneiro Akiyama,pedro carneiro akiyama,2018-08-14,Thais Gualda Carneiro Akiyama,"R. Bento Viana, 1078 - Água Verde, Curitiba - PR, 80240-110",clientes_2026
+name::pedro carneiro akiyama,Pedro Carneiro Akiyama,pedro carneiro akiyama,,,,registros_2022 | registros_2023 | registros_2026
+name::pedro gaioski,Pedro Gaioski,pedro gaioski,,,,registros_2024
+name::pedro henrique pimenta,Pedro Henrique Pimenta,pedro henrique pimenta,,,,registros_2025
+name_birth::pedro henrique pimenta alves::2016-06-15,Pedro Henrique Pimenta Alves,pedro henrique pimenta alves,2016-06-15,Larissa Loewen,Rua Maria Luzia Bazzani Natal 381 casa 91 - Uberaba,clientes_2026
+name::pedro henrique pimenta alves,Pedro Henrique Pimenta Alves,pedro henrique pimenta alves,,,,registros_2025 | registros_2026
+name::pedro prestes vieira valerio,Pedro Prestes Vieira Valerio,pedro prestes vieira valerio,,,,registros_2025
+name::pedro thoaldo canteri,Pedro Thoaldo Canteri,pedro thoaldo canteri,,,,registros_2023
+name::priscilla fogaca dos santos,Priscilla Fogaça dos Santos,priscilla fogaca dos santos,,,,registros_2025
+name_birth::priscilla raquel fogaca dos santos::1980-10-02,Priscilla Raquel Fogaça dos Santos,priscilla raquel fogaca dos santos,1980-10-02,Priscilla Raquel Fogaça dos Santos,Rua Brazilio de Araújo 341 Condomínio Plaza Madrid casa 61,clientes_2026
+name::priscilla raquel fogaca dos santos,Priscilla Raquel Fogaça dos Santos,priscilla raquel fogaca dos santos,,,,registros_2025 | registros_2026
+name::rafael dall acqua winter,Rafael Dall Acqua Winter,rafael dall acqua winter,,,,registros_2022 | registros_2023 | registros_2024
+name::rafaela favareto,Rafaela Favareto,rafaela favareto,,,,registros_2025
+name_birth::rafaela favareto cerqueira leite::2017-12-18,Rafaela Favareto Cerqueira Leite,rafaela favareto cerqueira leite,2017-12-18,Andrea Favareto,"Rua Eliezer Disaro Fangueiro 195, uberaba",clientes_2026
+name::rafaela favareto cerqueira leite,Rafaela Favareto Cerqueira Leite,rafaela favareto cerqueira leite,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::ravi silvestre franco::2022-09-22,Ravi Silvestre Franco,ravi silvestre franco,2022-09-22,Raíra Silvestre Mulling,"Rua José Izidoro Biazetto, 279 - Mossunguê, Curitiba - PR, 81200-240",clientes_2026
+name::ravi silvestre franco,Ravi Silvestre Franco,ravi silvestre franco,,,,registros_2026
+name::rebeca marluce telpizov,Rebeca Marluce Telpizov,rebeca marluce telpizov,,,,registros_2022
+name_birth::rebeca rubbo pereira cardoso::2017-06-15,Rebeca Rubbo Pereira Cardoso,rebeca rubbo pereira cardoso,2017-06-15,Gabriella Fraletti de Souza Rubbo,"Rua Bruno Filgueira, 258",clientes_2026
+name::rebeca rubbo pereira cardoso,Rebeca Rubbo Pereira Cardoso,rebeca rubbo pereira cardoso,,,,registros_2026
+name::regina celia,Regina Celia,regina celia,,,,registros_2024
+name::regina celia fernandes,Regina Célia Fernandes,regina celia fernandes,,,,registros_2024
+name::ricardo gomes roveda,Ricardo Gomes Roveda,ricardo gomes roveda,,,,registros_2022
+name_birth::rodrigo grynbaum::2019-03-29,Rodrigo Grynbaum,rodrigo grynbaum,2019-03-29,Carina Grynbaum,Rua Professor Pedro Viriato Parigot De Souza 3305 Ap 181,clientes_2026
+name::rodrigo grynbaum,Rodrigo Grynbaum,rodrigo grynbaum,,,,registros_2023 | registros_2024 | registros_2025
+name::ruan rossi,Ruan Rossi,ruan rossi,,,,registros_2023
+name_birth::samuel rawlyk lopes ribeiro::2015-06-10,Samuel Rawlyk Lopes Ribeiro,samuel rawlyk lopes ribeiro,2015-06-10,Juliane Rawlyk Lopes Ribeiro,"Rua José Benedito Cottolengo, 810 casa 26 - Campo Comprido",clientes_2026
+name::samuel rawlyk lopes ribeiro,Samuel Rawlyk Lopes Ribeiro,samuel rawlyk lopes ribeiro,,,,registros_2026
+name::santiago atz arens,Santiago Atz Arens,santiago atz arens,,,,registros_2025
+name_birth::serena passalacqua laurentino pereira::2018-11-09,Serena Passalacqua Laurentino Pereira,serena passalacqua laurentino pereira,2018-11-09,Iolanda Cristine Passalacqua Laurentino Pereira,"Av. Silva Jardim, 2346 - AP 202",clientes_2026
+name::serena passalacqua laurentino pereira,Serena Passalacqua Laurentino Pereira,serena passalacqua laurentino pereira,,,,registros_2023 | registros_2024 | registros_2025
+name::sofia de biagi,Sofia de Biagi,sofia de biagi,,,,registros_2025
+name_birth::sofia de biagi cerci::2023-04-27,Sofia de Biagi Cerci,sofia de biagi cerci,2023-04-27,Viviane Moscatto De Biagi,"Rua Leão Sallum, 526, apto 803, torre Alley B, Boa Vista",clientes_2026
+name::sofia de biagi cerci,Sofia de Biagi Cerci,sofia de biagi cerci,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::sofia pereira de morais::2015-08-03,Sofia Pereira de Morais,sofia pereira de morais,2015-08-03,Pamela Ferraz,"Estr. das Olarias, 550 - casa 177 - Atuba, 82630-160",clientes_2026
+name::sofia pereira de morais,Sofia Pereira de Morais,sofia pereira de morais,,,,registros_2026
+name::sophia fernandes,Sophia Fernandes,sophia fernandes,,,,registros_2023
+name::sophia fernandes rodrigues,Sophia Fernandes Rodrigues,sophia fernandes rodrigues,,,,registros_2022 | registros_2023 | registros_2024 | registros_2025
+name::sophia franca costa da silva,Sophia França Costa da Silva,sophia franca costa da silva,,,,registros_2023
+name::tete,Tete,tete,,,,registros_2022
+name::thais allage seleme de campos,Thais Allage Seleme de Campos,thais allage seleme de campos,,,,registros_2024
+name::thais paula e laura,"Thaís, Paula e Laura",thais paula e laura,,,,registros_2024
+name::thais paula e laura seleme de campos,"Thaís, Paula e Laura Seleme de Campos",thais paula e laura seleme de campos,,,,registros_2023 | registros_2024
+name::theo couto,Theo Couto,theo couto,,,,registros_2025
+name_birth::theo couto dos santos da silva::2026-10-07,Theo Couto dos Santos da Silva,theo couto dos santos da silva,2026-10-07,Elines Couto dos Santos da Silva,"Rua John Foster Dulles, 90 - Seminário",clientes_2026
+name::theo couto dos santos da silva,Theo couto dos santos da silva,theo couto dos santos da silva,,,,registros_2025 | registros_2026
+name::theo lemos janeiro onofre,Théo Lemos Janeiro Onofre,theo lemos janeiro onofre,,,,registros_2025
+name_birth::theo tosato ferreira::2015-04-08,Théo Tosato Ferreira,theo tosato ferreira,2015-04-08,Bruna Tosato Ferreira,Brasílio Cuman 1347- casa 26 - são braz,clientes_2026
+name::theo tosato ferreira,Théo Tosato Ferreira,theo tosato ferreira,,,,registros_2024 | registros_2025 | registros_2026
+name::thomas paulino,Thomas Paulino,thomas paulino,,,,registros_2022
+name::thomas paulino tareszkiewicz,Thomas Paulino Tareszkiewicz,thomas paulino tareszkiewicz,,,,registros_2022
+name::tiago mota felipe,Tiago Mota Felipe,tiago mota felipe,,,,registros_2022
+name::tree house,Tree House,tree house,,,,registros_2023 | registros_2024 | registros_2025
+name::treehouse,TreeHouse,treehouse,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::valentina becker cordeiro::2018-06-23,Valentina Becker Cordeiro,valentina becker cordeiro,2018-06-23,Tchesari Becker Cordeiro,"Rua Hyron Homero Damasceno Cassou, 119 - Casa 37",clientes_2026
+name::valentina becker cordeiro,Valentina Becker Cordeiro,valentina becker cordeiro,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name_birth::valentina dos santos domingos::2022-04-18,Valentina dos Santos Domingos,valentina dos santos domingos,2022-04-18,Danielle Mello dos Santos,Konrad Adenauer 911 casa 40,clientes_2026
+name::valentina dos santos domingos,Valentina dos Santos Domingos,valentina dos santos domingos,,,,registros_2025 | registros_2026
+name::valentina fressato esteves,Valentina fressato esteves,valentina fressato esteves,,,,registros_2023
+name::valentina gasparin wood,Valentina Gasparin Wood,valentina gasparin wood,,,,registros_2024 | registros_2025
+name::valentina paulino,Valentina Paulino,valentina paulino,,,,registros_2022
+name::valentina paulino tareszkiewicz,Valentina paulino Tareszkiewicz,valentina paulino tareszkiewicz,,,,registros_2022 | registros_2023 | registros_2024
+name::valentina reboucas bacila,Valentina Rebouças Bacila,valentina reboucas bacila,,,,registros_2022 | registros_2023
+name_birth::valentina sperandio daleffe::2016-02-10,Valentina Sperandio Daleffe,valentina sperandio daleffe,2016-02-10,Xênia Sperandio Daleffe,"Rua Silveira Peixoto, 1062 apartamento 152",clientes_2026
+name::valentina sperandio daleffe,Valentina Sperandio Daleffe,valentina sperandio daleffe,,,,registros_2023 | registros_2024 | registros_2025 | registros_2026
+name::vicente gauer meister luca gauer marchini bianca gauer marchini,"Vicente gauer meister, Luca Gauer Marchini & Bianca Gauer Marchini",vicente gauer meister luca gauer marchini bianca gauer marchini,,,,registros_2025
+name_birth::vicente lima bassi::2017-11-20,Vicente Lima Bassi,vicente lima bassi,2017-11-20,Luiz Eduardo Lima Bassi,"R. Brazílio de Araújo, 341 - casa 89 - Cidade Industrial de Curitiba, 81312-050,",clientes_2026
+name::vicente lima bassi,Vicente Lima Bassi,vicente lima bassi,,,,registros_2026
+name::vicente lima bassi aline vera lima bassi,Vicente Lima Bassi; Aline Vera Lima Bassi,vicente lima bassi aline vera lima bassi,,,,registros_2026
+name::vicenzo sarolli busato,Vicenzo Sarolli Busato,vicenzo sarolli busato,,,,registros_2023
+name::vila sofia,Vila Sofia,vila sofia,,,,registros_2023 | registros_2024
+name::vinicius dias leite,Vinicius Dias Leite,vinicius dias leite,,,,registros_2024
+name_birth::vinicius pruner da silva martins::2020-07-17,Vinicius Pruner da Silva Martins,vinicius pruner da silva martins,2020-07-17,Juliana Ferreira Martins,Travessa Percy Whithers 71 apto 301,clientes_2026
+name::vinicius pruner da silva martins,Vinicius Pruner da Silva Martins,vinicius pruner da silva martins,,,,registros_2024 | registros_2025 | registros_2026
+name_birth::vinicius trento magacho::2012-03-02,Vinicius Trento Magacho,vinicius trento magacho,2012-03-02,Rafael Magacho dos Santos Silva,"Rua Justo Manfron, 225, casa 6, Santa Felicidade",clientes_2026
+name::vinicius trento magacho,Vinicius Trento Magacho,vinicius trento magacho,,,,registros_2024 | registros_2025
+name::violeta,Violeta,violeta,,,,registros_2022
+name::violeta chalegre sens,Violeta Chalegre Sens,violeta chalegre sens,,,,registros_2023
+name::vitor cristofolini meretika,Vítor Cristofolini Meretika,vitor cristofolini meretika,,,,registros_2023
+name::vitor tironi gongora,Vítor Tironi Gongora,vitor tironi gongora,,,,registros_2025
+name::yasmin vicari bortolotto,Yasmin Vicari Bortolotto,yasmin vicari bortolotto,,,,registros_2024
+name_birth::zoe couto dos santos da silva::2021-07-14,Zoe Couto dos Santos da Silva,zoe couto dos santos da silva,2021-07-14,Elines Couto dos Santos da Silva,"Rua John Foster Dulles, 90 - Seminário, 80310-520",clientes_2026
+name::zoe couto dos santos da silva,Zoe couto dos santos da silva,zoe couto dos santos da silva,,,,registros_2025 | registros_2026

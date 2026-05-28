@@ -1,0 +1,177 @@
+[
+  {
+    "aluno_nome": "Melina Silva Varjão",
+    "responsavel_nome": "Louise Nascimento e Silva",
+    "inicio_contrato": "2026-02-25",
+    "fim_contrato": "2027-02-25",
+    "valor": "12381.82"
+  },
+  {
+    "aluno_nome": "Antonella Gonçalves Machado",
+    "responsavel_nome": "Jessica Goncalves Machado",
+    "inicio_contrato": "2026-04-02",
+    "fim_contrato": "2027-04-02",
+    "valor": "7007.68"
+  },
+  {
+    "aluno_nome": "Bianca Gauer Marchini",
+    "responsavel_nome": "Andrea Elisa Gauer Marchini",
+    "inicio_contrato": "2026-02-18",
+    "fim_contrato": "2027-02-18",
+    "valor": "10013.08"
+  },
+  {
+    "aluno_nome": "Luca Gauer Marchini",
+    "responsavel_nome": "Andrea Elisa Gauer Marchini",
+    "inicio_contrato": "2026-02-18",
+    "fim_contrato": "2027-02-18",
+    "valor": "10013.08"
+  },
+  {
+    "aluno_nome": "Valentina dos Santos Domingos",
+    "responsavel_nome": "Danielle Mello dos Santos",
+    "inicio_contrato": "2026-03-04",
+    "fim_contrato": "2027-03-04",
+    "valor": "8319.72"
+  },
+  {
+    "aluno_nome": "Antonio Spitz Rorato Baron",
+    "responsavel_nome": "Jacqueline Rorato",
+    "inicio_contrato": "2026-03-04",
+    "fim_contrato": "2026-09-04",
+    "valor": "3615.30"
+  },
+  {
+    "aluno_nome": "Luca Spitz Rorato Baron",
+    "responsavel_nome": "Jacqueline Rorato",
+    "inicio_contrato": "2026-03-04",
+    "fim_contrato": "2026-09-04",
+    "valor": "3615.30"
+  },
+  {
+    "aluno_nome": "Esther Fogaça dos Santos",
+    "responsavel_nome": "Priscilla Raquel Fogaça dos Santos",
+    "inicio_contrato": "2026-03-17",
+    "fim_contrato": "2026-09-17",
+    "valor": "3839.75"
+  },
+  {
+    "aluno_nome": "Helena Longo De Camargo",
+    "responsavel_nome": "Rodrigo Mendes Camargo",
+    "inicio_contrato": "2026-03-05",
+    "fim_contrato": "2027-03-05",
+    "valor": "7109.39"
+  },
+  {
+    "aluno_nome": "Luiz Cé Neto",
+    "responsavel_nome": "Talita Tamara da Silva Ramos Cé",
+    "inicio_contrato": "2026-03-06",
+    "fim_contrato": "2026-09-06",
+    "valor": "3964.35"
+  },
+  {
+    "aluno_nome": "Luisa Malucelli",
+    "responsavel_nome": "Isabella Zviejkovski Malucelli",
+    "inicio_contrato": "2026-03-16",
+    "fim_contrato": "2026-09-16",
+    "valor": "3519.59"
+  },
+  {
+    "aluno_nome": "Livia Malucelli",
+    "responsavel_nome": "Isabella Zviejkovski Malucelli",
+    "inicio_contrato": "2026-03-23",
+    "fim_contrato": "2026-09-23",
+    "valor": "3519.59"
+  },
+  {
+    "aluno_nome": "Diana dos Santos Pellanda",
+    "responsavel_nome": "Patricia Ribas dos Santos",
+    "inicio_contrato": "2026-03-18",
+    "fim_contrato": "2027-03-18",
+    "valor": "10524.56"
+  },
+  {
+    "aluno_nome": "João Vitor Kulka de Souza",
+    "responsavel_nome": "Regiane Cristina Kulka de Souza",
+    "inicio_contrato": "2026-03-11",
+    "fim_contrato": "2026-09-11",
+    "valor": "3682.00"
+  },
+  {
+    "aluno_nome": "Bárbara Kulka de Souza",
+    "responsavel_nome": "Regiane Cristina Kulka de Souza",
+    "inicio_contrato": "2026-03-09",
+    "fim_contrato": "2026-09-09",
+    "valor": "3682.00"
+  },
+  {
+    "aluno_nome": "Manoel Cassio Antunes",
+    "responsavel_nome": "Emilene Semirames de Oliveira Silva",
+    "inicio_contrato": "2026-03-13",
+    "fim_contrato": "2027-03-13",
+    "valor": "10068.71"
+  },
+  {
+    "aluno_nome": "Lorenzo Fidelis Lopes",
+    "responsavel_nome": "Francieli Dias Fidelis",
+    "inicio_contrato": "2026-03-25",
+    "fim_contrato": "2027-03-25",
+    "valor": "4526.90"
+  },
+  {
+    "aluno_nome": "Lucca Fidelis Lopes",
+    "responsavel_nome": "Francieli Dias Fidelis",
+    "inicio_contrato": "2026-03-25",
+    "fim_contrato": "2027-03-25",
+    "valor": "4526.90"
+  },
+  {
+    "aluno_nome": "Guilherme Pedroso Dresch",
+    "responsavel_nome": "Jussara Pedroso Dresch",
+    "inicio_contrato": "2026-04-09",
+    "fim_contrato": "2026-10-09",
+    "valor": "3964.35"
+  },
+  {
+    "aluno_nome": "Maria Luiza Ferreira Primo Pereira Lima",
+    "responsavel_nome": "Amanda Ferreira Primo",
+    "inicio_contrato": "2026-05-06",
+    "fim_contrato": "2027-05-06",
+    "valor": "12920.16"
+  },
+  {
+    "aluno_nome": "Sofia Pereira de Morais",
+    "responsavel_nome": "Pamela Ferraz",
+    "inicio_contrato": "2026-05-06",
+    "fim_contrato": "2027-05-06",
+    "valor": "7249.32"
+  },
+  {
+    "aluno_nome": "Lucas Crippa Mazzarotto",
+    "responsavel_nome": "Joanna Vitória Crippa Mazzarotto",
+    "inicio_contrato": "2026-05-09",
+    "fim_contrato": "2027-05-09",
+    "valor": "7249.32"
+  },
+  {
+    "aluno_nome": "Luana Fernandes Paiva",
+    "responsavel_nome": "Vanessa Fernandes de Paiva",
+    "inicio_contrato": "2026-05-13",
+    "fim_contrato": "2026-11-13",
+    "valor": "4261.80"
+  },
+  {
+    "aluno_nome": "Gustavo Milani Weyll",
+    "responsavel_nome": "Camila Trevisan Milani Weyll",
+    "inicio_contrato": "2026-05-13",
+    "fim_contrato": "2027-05-13",
+    "valor": "5937.24"
+  },
+  {
+    "aluno_nome": "Heitor Tonatto Fernandes",
+    "responsavel_nome": "Flavia Tonatto Dorneles Barboza",
+    "inicio_contrato": "2026-02-09",
+    "fim_contrato": "2026-08-09",
+    "valor": "3977.68"
+  }
+]

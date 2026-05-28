@@ -1,0 +1,82 @@
+{
+  "summary": {
+    "active_teachers_with_doc_issues": 4,
+    "active_clients_with_doc_issues": 2,
+    "active_contracts_with_blocking_value_issues": 0
+  },
+  "blocking_items": {
+    "active_contract_value_issues": []
+  },
+  "non_blocking_items": {
+    "active_teachers_with_doc_issues": [
+      {
+        "nome": "Ana Claudia Cassiano",
+        "email": "ana.claudia.cassiano@treehouse.import",
+        "cpf": "11724184970",
+        "telefone": "4199112629541992126295",
+        "issues": [
+          "Telefone suspeito"
+        ],
+        "blocking": false,
+        "reason": "Dados cadastrais opcionais ou burocráticos; não bloqueiam a importação."
+      },
+      {
+        "nome": "Emanuella Selusniak de Oliveira",
+        "email": "emanuella.selusniak.de.oliveira@treehouse.import",
+        "cpf": "1093986492410",
+        "telefone": "4198736904310",
+        "issues": [
+          "CPF com tamanho inválido"
+        ],
+        "blocking": false,
+        "reason": "Dados cadastrais opcionais ou burocráticos; não bloqueiam a importação."
+      },
+      {
+        "nome": "Laura Alves da Rocha",
+        "email": "laura.alves.da.rocha@treehouse.import",
+        "cpf": "1262823595110",
+        "telefone": "4198782494310",
+        "issues": [
+          "CPF com tamanho inválido"
+        ],
+        "blocking": false,
+        "reason": "Dados cadastrais opcionais ou burocráticos; não bloqueiam a importação."
+      },
+      {
+        "nome": "Marina Jorge Geiger",
+        "email": "marina.jorge.geiger@treehouse.import",
+        "cpf": "1256671290510",
+        "telefone": "4199589861610",
+        "issues": [
+          "CPF com tamanho inválido"
+        ],
+        "blocking": false,
+        "reason": "Dados cadastrais opcionais ou burocráticos; não bloqueiam a importação."
+      }
+    ],
+    "active_clients_with_doc_issues": [
+      {
+        "nome": "Mayra dos Santos Zavattaro",
+        "cpf": "3505251780710",
+        "telefone": "41998156060",
+        "email": "",
+        "issues": [
+          "CPF com tamanho inválido"
+        ],
+        "blocking": false,
+        "reason": "Documentos/telefone podem ficar pendentes; não bloqueiam a importação."
+      },
+      {
+        "nome": "Renata Fisbein e Richard Katz",
+        "cpf": "621566918",
+        "telefone": "41999723727",
+        "email": "",
+        "issues": [
+          "CPF com tamanho inválido"
+        ],
+        "blocking": false,
+        "reason": "Documentos/telefone podem ficar pendentes; não bloqueiam a importação."
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+import_key,turma_import_key,professora_import_key,aluno_import_key,ano_origem,status_bruto,status_id_sugerido,data_aula,horas_aula,assunto,saldo,observacoes,motivo_exclusao
+lesson::00001,legacy::bruna::gabriela de pauli kinaki,teacher::bruna,name::gabriela de pauli kinaki,2022,,1,,1,,GREAT,RHYMING,Aula historica sem data_aula valida
+lesson::00002,legacy::isabele::aletha,teacher::isabele,name::aletha,2022,,1,,1,,misfortune / omen / doomed,animada,Aula historica sem data_aula valida
+lesson::00003,legacy::isabele::luciane,teacher::isabele,name::luciane,2022,,1,,0,,,,Aula historica sem data_aula valida
+lesson::00004,legacy::liohana::luca trauczynski muffone,teacher::liohana,name::luca trauczynski muffone,2022,,1,,1,,Disposto,Halloween,Aula historica sem data_aula valida
+lesson::00005,legacy::liohana::paola carneiro akiyama,teacher::liohana,name::paola carneiro akiyama,2022,,1,,1,,Animada e disposta,Numbers,Aula historica sem data_aula valida
+lesson::00006,legacy::liohana::pedro carneiro akiyama,teacher::liohana,name::pedro carneiro akiyama,2022,,1,,1,,Estava tímido e só fez com a presença da mãe,Family/colors,Aula historica sem data_aula valida
+lesson::00007,legacy::rafaela swinka pavessi::treehouse,teacher::rafaela swinka pavessi,name::treehouse,2025,Treinamento,2,,2,Treinamento,,,Aula historica sem data_aula valida
+lesson::00008,legacy::bruna::leonardo gomes roveda,teacher::bruna,name::leonardo gomes roveda,2022,,2,-612613.625,1,,EXCITED,NÚMEROS,Aula historica com data_aula fora do padrao ISO
+lesson::00009,legacy::bruna::ricardo gomes roveda,teacher::bruna,name::ricardo gomes roveda,2022,,2,-612655.6215,0,,Teve um desempenho bem bacana,ASSESSMENT,Aula historica com data_aula fora do padrao ISO

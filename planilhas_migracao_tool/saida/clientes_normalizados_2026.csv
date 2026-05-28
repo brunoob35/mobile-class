@@ -1,0 +1,102 @@
+import_key,nome,nome_normalizado,telefone,cpf,rg,email,endereco,cep,familias,alunos_vinculados,contratos_ativos,linhas_origem
+cpf::05694520904,Amanda Ferreira Primo,amanda ferreira primo,4199719411610,05694520904,94251800,,"R. Francisco Torres, 742 - apartamento 901 - Centro, 80060-130",80060137,Lima,1,1,1
+cpf::07877848935,Amanda Krebs Dias,amanda krebs dias,41996428955,07877848935,94433274,,"Rua Curupis, 1861 casa 03, Portão",80330047,Dias,1,1,1
+cpf::04538616958,Amanda Paula Perfeito Falavina Dias,amanda paula perfeito falavina dias,41998900008,04538616958,1011697588,,"R. Dias da Rocha Filho, 239 - 602b - Alto da XV, Curitiba - PR, 80045-130",80045137,Dias,1,1,1
+cpf::06101777103,Ana Luiza Jaime Perillo de Melo,ana luiza jaime perillo de melo,41992325910,06101777103,46266690,,"Av. Visc. de Guarapuava, 5345 - 09 - Batel, Curitiba - PR, 80240-010",80240017,Perillo de Melo,2,2,2
+cpf::06388100945,Andrea Elisa Gauer Marchini,andrea elisa gauer marchini,41999740310,06388100945,79971987,,"Rua Julia Wanderley, 168",80430037,Marchini,2,0,2
+cpf::04989193903,Andrea Elisa Gauer Marchini,andrea elisa gauer marchini,41999740310,04989193903,679225737,,"R. Uberlândia, 359, casa 24 - Abranches",82220267,Gauer Marchini,2,2,2
+cpf::03008220908,Andrea Favareto,andrea favareto,41999685265,03008220908,70991594,,"Rua Eliezer Disaro Fangueiro 195, uberaba",81540447,Favareto,2,2,2
+cpf::93786263191,Anelissa Crema,anelissa crema,41992514715,93786263191,83116064,,"Rua Leão Sallum, 526 AP302B Grove",82540057,Crema,1,0,1
+cpf::04125184909,Beatriz Aguiar Arend Schmidt,beatriz aguiar arend schmidt,48996122119,04125184909,40869850,,"Rua Ari José Valle, 1200 - casa 57 - São João, Curitiba - PR, 82030-025",820300257,Schmidt,1,1,1
+cpf::04296555928,Bianca Bacci Bisetto,bianca bacci bisetto,41999282299,04296555928,61267573,,Rua Jeremias Maciel Perretto 1288 casa 48,81210317,Bisetto,2,2,2
+cpf::05387010992,Bruna Greggio,bruna greggio,41988441186,05387010992,104901832,,"R. Carlos Benato, 640 - casa 17",82320447,Greggio,1,1,1
+cpf::03329247932,Bruna Maria Filippetto,bruna maria filippetto,4199162136210,03329247932,58707414,,"Rua Fernando de Noronha, 3450",826505057,Filippetto,1,0,1
+cpf::07130432969,Bruna Tosato Ferreira,bruna tosato ferreira,41991154299,07130432969,87767981,,Brasílio Cuman 1347- casa 26 - são braz,823154877,Tosato Ferreira,1,1,1
+cpf::03719632903,Caio Verussa,caio verussa,41991911745,03719632903,76874301,,"Rua Eduardo Sprada, 2520 casa 18",812103717,Maggi Verussa,1,0,1
+cpf::06791257954,Camila do Nascimento Cardoso,camila do nascimento cardoso,41992848288,06791257954,58208205,,"Rua Carolina Castelli, 538, bloco 1 apartamento 305",81050457,Nascimento Cardoso,1,0,1
+cpf::03488609944,Camila Mainetti,camila mainetti,41984052680,03488609944,60033315,,"Condomínio Westside III - Rua Luiz Tramontin, 1820 - Campo Comprido, Curitiba - PR, 81230-161 Casa 2",812301617,Mainetti Gabardo,1,1,1
+cpf::07659914979,Camila Trevisan Milani Weyll,camila trevisan milani weyll,41988491727,07659914979,1054678268,,"Rua das Estrelas, 35 apto 1001 Vila da Serra, Nova Lima - MG",340060897,Milani Weyll | Weyll,1,1,2
+cpf::31036255883,Carina Grynbaum,carina grynbaum,11982941818,31036255883,344420000,,Rua Professor Pedro Viriato Parigot De Souza 3305 Ap 181,812004527,Grynbaum,2,0,2
+cpf::04795963959,Cássia Fuganti,cassia fuganti,41996489939,04795963959,47555920,,Rua Francisco Rocha 165 apto 93,80420137,Fuganti,1,1,1
+cpf::04350194908,Cinthia Fernanda da Fonseca Silva,cinthia fernanda da fonseca silva,41998715508,04350194908,83131748,,"Rua Nilo Peçanha, 2222 Sobrado 6 bairro Pilarzinho",82120447,Fonseca,1,1,1
+cpf::03859218964,Cristiane Engel dos Santos Malat,cristiane engel dos santos malat,41991119199,03859218964,139756223,,"Rua Professor Pedro Viriato Parigot de Souza, 3635, ap 2102, B",812004527,Malat,1,0,1
+cpf::03779292980,Danielle Mello dos Santos,danielle mello dos santos,41991271145,03779292980,11316568359,,Konrad Adenauer 911 casa 40,82821027,Domingos,1,1,2
+cpf::05674028940,Deborah Fernandes Rezzadori Valdez,deborah fernandes rezzadori valdez,4199848777810,05674028940,,,"Rua Dona Alice Tibiriçá, 74B ap 1801",80730327,Valdez,2,2,2
+cpf::05091973966,Elines Couto dos Santos da Silva,elines couto dos santos da silva,41996281254,05091973966,902096987,,"Rua John Foster Dulles, 90 - Seminário, Curitiba - PR",80310527,Santos da Silva,3,3,3
+cpf::00975428900,Emilene Semirames de Oliveira Silva,emilene semirames de oliveira silva,41988151625,00975428900,80927908,,"R. Hyron Homero Damasceno Cassou, 119 - casa 02",817501027,Antunes,1,1,2
+cpf::14089735963,Escola Escola Kambalhota,escola escola kambalhota,,14089735963,,,"Av. Silva Jardim, 4063 - Seminário, Curitiba - PR",802400217,Escola Kambalhota,1,1,1
+cpf::81310020999,Escola Escola Kids,escola escola kids,,81310020999,,,"R. Saldanha Marinho, 1884 - Bigorrilho, Curitiba - PR",80780187,Escola Kids,1,1,1
+cpf::06313544927,Fabiane Sichelschimidt,fabiane sichelschimidt,41996788717,06313544927,99926775,,Rua Delegado Naby Paraná 462,81110127,Sichelschimidt,1,1,1
+cpf::01477069984,Fabíola Colombo Mourão,fabiola colombo mourao,41999652793,01477069984,58885274,,"Rua Coronel Ottoni Maciel, 215- apto 802- A Bairro Vila Izabel",80327,Remer Silva,1,0,1
+cpf::05101817910,Felipe Skraba,felipe skraba,41996439928,05101817910,70698471,,"Rua Deputado Heitor Alencar Furtado, 3215, apto 1802",812005287,Skraba,1,0,1
+cpf::03872429965,Fernanda Alves,fernanda alves,41999811978,03872429965,60122474,,José Cadilhe 804 ap 41B,80620247,Alves,1,0,1
+cpf::00915861941,Fernanda Marcondes Ribas,fernanda marcondes ribas,41999225562,00915861941,3627736,,"São João, rua Pedro Muraro, 50, casa 52",82030627,Ribas Zini,1,1,1
+cpf::06344115947,Flavia Tonatto Dorneles Barboza,flavia tonatto dorneles barboza,4197694634,06344115947,102508988,,"R. Rio Tietê, 414 - apartamento 404 - Bairro Alto",82840357,Tonatto,1,1,2
+cpf::86176234115,Francieli Dias Fidelis,francieli dias fidelis,41996837555,86176234115,53548741,,Rua Guilherme Pugsley 1837,80627,Fidelis,2,2,4
+cpf::04343114996,Gabriel Canto Tomazini,gabriel canto tomazini,41999950602,04343114996,44061890,,"R. Antônio Rodrigues, 120 - casa 48 - Cidade Industrial de Curitiba, 80740-560,",80740567,Tomazini,1,1,1
+cpf::00676175902,Gabriella Fraletti de Souza Rubbo,gabriella fraletti de souza rubbo,41992062719,00676175902,81126909,,"Rua Bruno Filgueira, 258",80240227,Rubbo,1,1,1
+cpf::05141580938,Gustavo Weigert de Araujo,gustavo weigert de araujo,41999937804,05141580938,86212498,,"R. Ana Tosin, 222 - Portão, Curitiba - PR, 80330-110",80330117,Araujo | Araújo,2,2,2
+cpf::04766182669,Hugo Evo Magro Corrêa Urbano,hugo evo magro correa urbano,41998054488,04766182669,12342368,,"Rua Ari José Valle, 1200, casa 34",800300257,Urbano,1,1,1
+cpf::33452508889,Ingrid Araujo Santos Andor,ingrid araujo santos andor,41988457978,33452508889,435607571,,Rua Urbano Lopes 238 ap 302 Cristo Rei,80050527,Andor,1,1,1
+cpf::06664939959,Iolanda Cristine Passalacqua Laurentino Pereira,iolanda cristine passalacqua laurentino pereira,41984220543,06664939959,77976183,,"Av. Silva Jardim, 2346 - AP 202",80240027,Passalacqua,1,0,1
+cpf::00392058944,Isabella Demeterco,isabella demeterco,4199613561210,00392058944,61101748,,"Av. N. Sra. da Luz, 230 - apartamento 1102 - Bacacheri, 82510-020,",82510027,Demeterco Pessoa,1,1,1
+cpf::04732644988,Isabella Zviejkovski Malucelli,isabella zviejkovski malucelli,41999214002,04732644988,95472630,,"Avenida Iguaçu, 2689 ap 21",802400317,Malucelli,2,2,4
+cpf::06622157960,Jacqueline Rorato,jacqueline rorato,41996957638,06622157960,95765599,,Travessa Rafael Francisco Greca 34 Ap 1401,80620157,Baron | Rorato | Rorato Baron,2,2,4
+cpf::06642913922,Jaqueline Lebbos Favaretto Ruppel,jaqueline lebbos favaretto ruppel,43999334714,06642913922,82007563,,"Avenida João Gualberto 610, ap 601C",80037,Ruppel,1,1,1
+cpf::05075867944,Jessica Goncalves Machado,jessica goncalves machado,41991382001,05075867944,78007567,,"Rua Bruno Filgueira, 1936 - ap 802 - Bigorrilho",80730387,Gonçalves Machado | Machado,1,1,2
+cpf::00869254901,Jheinifer Felix,jheinifer felix,4196351254,00869254901,88147421,,Rua Suécia 756,82800067,Felix,1,0,1
+cpf::01019405996,Joanna Vitória Crippa Mazzarotto,joanna vitoria crippa mazzarotto,41999354544,01019405996,42358150,,"Av. Visc. de Guarapuava, 3945 - apartamento 1202 - Batel, 80250-220",80250227,Mazzarotto,1,1,1
+cpf::04329226952,Juliana Cristina Leinig de Almeida Romani,juliana cristina leinig de almeida romani,41988566196,04329226952,706655657,,"Rua Brigadeiro Franco, 1766, ap. 192, Centro, Curitiba-PR",8042027,Romani,1,0,1
+cpf::02174450984,Juliana Ferreira Martins,juliana ferreira martins,41999327772,02174450984,281351648,,Travessa Percy Whithers 71 apto 301,80240197,Martins,1,0,1
+cpf::00654307946,Juliane Rawlyk Lopes Ribeiro,juliane rawlyk lopes ribeiro,4199853020410,00654307946,84629267,,"Rua José Benedito Cottolengo, 810 casa 26 - Campo Comprido",81220317,Lopes Ribeiro,1,1,1
+cpf::04132333914,Jussara Pedroso Dresch,jussara pedroso dresch,41984210652,04132333914,75681798,,"Rua Valdivia, 239, sobrado 3, Hugo lange",80040267,Dresch,1,1,2
+cpf::08827422994,Larissa Loewen,larissa loewen,,08827422994,78246340,,Rua Maria Luzia Bazzani Natal 381 casa 91 - Uberaba,81540547,Lowen,1,1,2
+cpf::05998267974,Leandra Cassaniga Marim,leandra cassaniga marim,41996616179,05998267974,917273587,,"Padre Jose Kentenich 900, casa 50",812103427,Marim,1,0,1
+cpf::04385456992,Leonardo Silva Machado,leonardo silva machado,41991382001,04385456992,684229497,,"Rua Bruno Filgueira, 1936 - ap 802 - Bigorrilho",80730387,Gonçalves Machado,1,1,1
+cpf::33015427865,Louise Nascimento e Silva,louise nascimento e silva,41991990160,33015427865,436972645,,"Avenida João Gualberto, 610, Ap 902C, Alto da Glória",80037,Silva Varjão | Varjão,1,1,2
+cpf::07024187905,Luana Guerreiro,luana guerreiro,41996438228,07024187905,79258047,,"Rua Coronel Dulcidio, 1079, ap 601",80420167,Guerreiro | Guerreiro de Souza,2,2,2
+cpf::51508950830,Luciano Maranho,luciano maranho,41999646268,51508950830,148668256,,"Rua Eng Arthur Bettes, 215",80610297,Maranho,1,0,1
+cpf::03785684932,Luiz Eduardo Lima Bassi,luiz eduardo lima bassi,041996046169,03785684932,8920247,,"R. Brazílio de Araújo, 341 - casa 89 - Cidade Industrial de Curitiba, 81312-050,",81312057,Lima Bassi,2,2,2
+cpf::03266166914,Lydia Aparecida Martins,lydia aparecida martins,41999623295,03266166914,64046197,,"R. Brasílio José Betezek, 105 - São Braz, Curitiba - PR, 82015-384",820153847,Sornas,2,2,2
+cpf::00141067012,Magda Ester Minuzzo Zuffo,magda ester minuzzo zuffo,41995368213,00141067012,271699092,,"Rua Epaminondas Franco, 138 Tarumã",82530447,Zuffo,1,0,1
+cpf::04818127922,Marcela de Masi Nogueira,marcela de masi nogueira,41999740385,04818127922,69755194,,Rua Atílio Borio 174 ap 81 - Cristo rei,80050257,Masi Nogueira,1,0,1
+cpf::00770961932,Marcio Aleksey Roesler,marcio aleksey roesler,11996205020,00770961932,37312680,,"Av. Silva Jardim, 1618 - apartamento 502 - Água Verde, 80250-030",80250037,Roesler,1,1,1
+cpf::04410925946,Maria Beatriz Benato,maria beatriz benato,41999721202,04410925946,67549333,,"Rua Margarida Dallarmi, 315 - Santa Felicidade",82015697,Benato,1,1,1
+cpf::03540623957,Maria Fernanda Coan,maria fernanda coan,41999099565,03540623957,4048248,,Travessa Lange 261 ap 501,80240177,Coan,1,1,1
+cpf::04456487917,Mariana Rosina,mariana rosina,41984417176,04456487917,91662574,,Carmelina Cavassin 1280 casa 35,82220177,Rosina,1,0,1
+cpf::10725235910,Mariele Simões,mariele simoes,41987084610,10725235910,1378020668,,"Rua Domingas Nicco, 179 - apartamento 22 - Mossunguê",81200287,Simões,1,1,1
+cpf::05793853960,Marina Garbin Lima,marina garbin lima,41999362289,05793853960,77433384,,Rua Silveira Peixoto 380 apto 401,80240127,Garbin Lima,2,0,2
+cpf::3505251780710,Mayra dos Santos Zavattaro,mayra dos santos zavattaro,41998156060,3505251780710,1481109218,,"Rua Benjamin Zilli, 413, Ap. 61A",80540117,Zavattaro Rezende,2,2,2
+cpf::07693899960,Melanny Burkoot,melanny burkoot,41999780680,07693899960,101948641,,"Professor Luiz Benicio da Silva Bastos, 110",82030137,Burkoot,1,0,1
+cpf::01700834975,Melissa Matzenbacher,melissa matzenbacher,4199164422110,01700834975,40817620,,"Rua Jeremias Maciel Perretto 1288, Casa 20 Cond.Burgel II",81210317,Matzenbacher Roda,1,0,1
+cpf::04132729907,Nathália Locks de Loyola,nathalia locks de loyola,41999852105,04132729907,73472288,,Rua Deputado Heitor Alencar Furtado 3600 ap 1001,812005287,Loyola Greca,1,0,1
+cpf::07848378993,Pamela Ferraz,pamela ferraz,4198417728110,07848378993,982669847,,"Estr. das Olarias, 550 - casa 177 - Atuba, 82630-160",82630167,Morais,1,1,1
+cpf::06965760907,Pamella Dayane da Silveira Guimarães,pamella dayane da silveira guimaraes,41996383836,06965760907,104231934,,Rua Antônio Schiebel 1635 Sobrado 8,81670387,Guimarães,1,0,1
+cpf::02174697955,Patricia Ribas dos Santos,patricia ribas dos santos,41996266642,02174697955,61454780,,"Rua Amintas de Barros, 330, ap 1301",800602057,Ribas dos Santos,1,1,2
+cpf::07726833955,Pérola Piegel,perola piegel,4199105999310,07726833955,78007346,,"R. São Pedro, 42 - Cabral, Curitiba - PR, 80035-020",80035027,Piegel,1,1,1
+cpf::04471465996,Pollyana Ribeiro Medeiros Ribas,pollyana ribeiro medeiros ribas,41999788380,04471465996,82503501,,"Rua Brasilio José Betezek, 105, casa 56",820153847,Medeiros | Medeiros Ribas,2,2,2
+cpf::03718109905,Priscilla Raquel Fogaça dos Santos,priscilla raquel fogaca dos santos,41996984601,03718109905,82842675,,Rua Brazilio de Araújo 341 Condomínio Plaza Madrid casa 61,81312057,Fogaça dos Santos,2,1,3
+cpf::89633180104,Rafael Magacho dos Santos Silva,rafael magacho dos santos silva,41999150888,89633180104,3815864,,"Rua Justo Manfron, 225, casa 6, Santa Felicidade",82410547,Magacho | Trento Magacho,2,0,2
+cpf::03833723130,Raíra Silvestre Mulling,raira silvestre mulling,6699999178710,03833723130,224178267,,"Rua José Izidoro Biazetto, 279 - Mossunguê, Curitiba - PR, 81200-240",81200247,Silvestre,1,1,1
+cpf::02729298916,Raphael Taura Cherbiski,raphael taura cherbiski,32490398770,02729298916,61161163,,"Kapellestraat 2 Bus 4 Deinze, Bélgica",98000,Cherbiski,1,1,1
+cpf::02866238974,Regiane Cristina Kulka de Souza,regiane cristina kulka de souza,41996189511,02866238974,69505210,,"Rua Capitão Leônidas Marques, 893 casa 03",81540477,Kulka de Souza,2,2,4
+cpf::06847027975,Renata Anile Mansur,renata anile mansur,41988172507,06847027975,824956497,,"R. Prof. Pedro Viriato Parigot de Souza, 3635 - Cidade Industrial de Curitiba, Curitiba - PR, 81200-452",812004527,Mansur,1,1,1
+cpf::07685721937,Renata Ferraz Novak,renata ferraz novak,41998402222,07685721937,87778975,,"Seminário, Rua Antônio Rodrigues 209",80740567,Novak,1,0,1
+cpf::621566918,Renata Fisbein e Richard Katz,renata fisbein e richard katz,41999723727,621566918,68699380,,"Av. João Gualberto, 610 - Alto da Glória, Curitiba",80037,Fisbein Katz,1,1,1
+cpf::00621566918,Renata Fisbein e Richard Katz,renata fisbein e richard katz,41999723727,00621566918,68699387,,"Av. João Gualberto, 610 - Alto da Glória, Curitiba",80037,Fisbein Katz,1,1,1
+cpf::06206515982,Rodrigo Camargo de Camargo,rodrigo camargo de camargo,41999675596,06206515982,913144797,,"Av. Sete de Setembro, 4633 - Batel, 80250-205",802502057,Camargo,1,1,1
+cpf::00849598940,Rodrigo Mendes Camargo,rodrigo mendes camargo,41988468116,00849598940,64355023,,Eduardo Sprada 2388 casa 02,812005287,Camargo,1,1,2
+cpf::03643334990,Rosângela Alves Monteiro,rosangela alves monteiro,45999233193,03643334990,92685381,,"Dep. Heitor Alencar Furtado, 4690 apto 2302",81280347,Mengue,1,1,1
+cpf::04150354901,Sâmia Silva Gallego Campos Tavares,samia silva gallego campos tavares,41992064445,04150354901,62685344,,"Rua sete de abril, 445, ap. 202, Alto da XV",800451057,Tavares,1,1,1
+cpf::05290559965,Sarah Boiko,sarah boiko,41992149944,05290559965,77018328,,"Rua Jose Brusamolin, 658, casa 2",82210287,Boiko,1,1,1
+cpf::05045931962,Sarah Boiko,sarah boiko,41992149944,05045931962,85360728,,"Rua Jose Brusamolin, 658, casa 2",82210287,Boiko,1,1,1
+cpf::02278835947,Soraia Tullio,soraia tullio,41999214100,02278835947,68818036,,"R Pedro Viriato Parigot de Souza, 2664, apto 23-C, Ecoville",8120017,Tullio,1,0,1
+cpf::06841989910,Talita Tamara da Silva Ramos Cé,talita tamara da silva ramos ce,41999442811,06841989910,100204215,,"Av. Iguaçu, 2663 - Apto 131b - Água verde",802400317,Cé | Cé Neto,1,1,2
+cpf::03023947961,Tchesari Becker Cordeiro,tchesari becker cordeiro,41999385881,03023947961,79113905,,"Rua Hyron Homero Damasceno Cassou, 119 - Casa 37",817501027,Becker Cordeiro,2,2,2
+cpf::05368042906,Thais Gualda Carneiro Akiyama,thais gualda carneiro akiyama,41997171745,05368042906,883348097,,"R. Bento Viana, 1078 - Água Verde, Curitiba - PR, 80240-110",80240117,Akiyama,2,2,2
+cpf::34473054870,Thalita Oliveira Pimentel Pereira,thalita oliveira pimentel pereira,41999972425,34473054870,338077674,,"Rua Reinaldo Stocco, n 546, casa 79",81820027,Pimentel Pereira,1,0,1
+cpf::07797705950,Valeska da Fonseca Dubas Matocheck,valeska da fonseca dubas matocheck,41997941492,07797705950,103425913,,"Rua José Alcides de Lima, 884, casa 02",81050347,Dubas Matocheck,1,1,1
+cpf::04375673974,Vanessa Fernandes de Paiva,vanessa fernandes de paiva,41992817432,04375673974,77230874,,Rua Hayron Homero Damasceno Cassou 119 Boqueirão,817501027,Paiva,1,1,2
+cpf::07977934612,Victor Cangussu Teixeira Campos,victor cangussu teixeira campos,41992421900,07977934612,15364877,,"R. Reinaldino Schaffenberg de Quadros, 1590 - apartamento 501 - Alto da XV, 80050-435",800504357,Campos,1,1,1
+cpf::04932359900,Viviane Moscatto De Biagi,viviane moscatto de biagi,41999176177,04932359900,77446540,,"Rua Leão Sallum, 526, apto 803, torre Alley B, Boa Vista",85240057,De Biagi,1,1,1
+cpf::75832003934,Xênia Sperandio Daleffe,xenia sperandio daleffe,41992426060,75832003934,35405593,,"Rua Silveira Peixoto, 1062 apartamento 152",80240127,Sperandio Daleffe,1,0,1
